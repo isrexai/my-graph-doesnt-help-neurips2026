@@ -1,0 +1,2184 @@
+{
+  "contexts": [
+    {
+      "contextId": "chain_01",
+      "dagType": "chain",
+      "dag": [
+        "A -> B",
+        "B -> C",
+        "C -> D"
+      ],
+      "passage": "The European Space Agency's Euclid space telescope has been conducting an extensive survey of the distant universe. Redlight technology later pinpointed two quasars as the most ancient ever detected from provided data. Scientists had previously catalogued 31 total quasars of varying ages from the survey, and new perspectives emerged on how supermassive black holes formed in the early universe, near the Big Bang event.",
+      "questions": {
+        "Q1": {
+          "question": "Which statement most completely describes an event or events in the context happening because of an earlier event whilst contributing to a later development?",
+          "options": {
+            "A": "Discovery of few very ancient quasars from redlight technology & many quasars being discovered",
+            "B": "31 quasars being discovered & understanding of early black holes advanced",
+            "C": "2 ancient quasars being identified from red light technology",
+            "D": "No such events exist"
+          },
+          "answer": "A"
+        },
+        "Q2": {
+          "question": "Which event was the most essential to this scenario as a whole, and to other possible events occurring?",
+          "options": {
+            "A": "The discovery of the ancient quasars",
+            "B": "Scientists cataloguing 31 total quasars of varying ages",
+            "C": "Scientists gaining new perspectives on how supermassive black holes formed in the early universe, realizing black holes could have potentially formed near the big bang",
+            "D": "The Euclid space telescope conducting a survey"
+          },
+          "answer": "D"
+        },
+        "Q3": {
+          "question": "Which event has no influence on any other possible events?",
+          "options": {
+            "A": "The scientist's understanding of early black hole growth",
+            "B": "Euclid solely surveying the distant universe",
+            "C": "2 ancient quasars being identified using contemporary redlight technology",
+            "D": "31 quasars being discovered without any immediate analysis"
+          },
+          "answer": "A"
+        },
+        "Q4": {
+          "question": "Which statement is the most accurate?",
+          "options": {
+            "A": "The identification of 2 ancient quasars was directly caused by a previous catalogue of quasars",
+            "B": "The catalogue of 31 total quasars directly improved scientist's understanding of early black hole growth",
+            "C": "The scientist's understanding of early black hole growth directly facilitated the redlight technology allowing ancient quasars to be discovered",
+            "D": "Euclid surveying the distant universe directly led to the identification of 2 ancient quasars being discovered"
+          },
+          "answer": "A"
+        },
+        "Q5": {
+          "question": "If 31 quasars were never discovered, which statement would likely be false?",
+          "options": {
+            "A": "Euclid would still be surveying the distant universe",
+            "B": "The discovery of ancient quasars would still have led to improved scientist understanding of early black hole growth",
+            "C": "Ancient quasars could be realistically likely to be discovered due to Euclid's extensive survey of the distant universe",
+            "D": "The scientist's understanding of early black hole growth would not have occurred"
+          },
+          "answer": "C"
+        }
+      },
+      "nodes": {
+        "A": "Euclid surveying the distant universe",
+        "B": "31 quasars being discovered",
+        "C": "2 ancient quasars being identified using redlight technology",
+        "D": "Understanding of early black hole growth advancing"
+      }
+    },
+    {
+      "contextId": "chain_02",
+      "dagType": "chain",
+      "dag": [
+        "A -> B",
+        "B -> C",
+        "C -> D"
+      ],
+      "passage": "The Tianwen-2 probe launched from China in 2025. Scientists analyzing data from the mission noted unusual physical characteristics of the target, leading some to speculate that Kamo'oalewa may have once been part of the Moon itself. The spacecraft had captured the first close-up photograph of the small asymmetrical rock (formally known as asteroid 2016HO3 and measuring approximately 16-20 meters in diameter) upon arriving at its destination after traveling over 600 million miles through deep space.",
+      "questions": {
+        "Q1": {
+          "question": "Which statement most completely describes an event or events in the context happening because of an earlier event whilst contributing to a later development?",
+          "options": {
+            "A": "The first photograph being captured of Kamo'oalewa",
+            "B": "Tianwen-2 launching & the probe reaching Kamo'oalewa",
+            "C": "The photograph being captured & the probe reaching Kamo'oalewa",
+            "D": "No such events exist"
+          },
+          "answer": "C"
+        },
+        "Q2": {
+          "question": "Which event was the most essential to this scenario as a whole, and to other possible events occurring?",
+          "options": {
+            "A": "The probe reaching Kamo'oalewa",
+            "B": "The first photograph being captured of a completely new yet interesting astronomical structure",
+            "C": "Tianwen-2's launch",
+            "D": "Scientists forming a hypothesis about the asteroid's origin"
+          },
+          "answer": "C"
+        },
+        "Q3": {
+          "question": "Which event has no influence on any other possible events?",
+          "options": {
+            "A": "The probe reaching Kamo'oalewa",
+            "B": "Scientists' hypothesis about the asteroid's origin",
+            "C": "Tianwen-2 solely launching from China",
+            "D": "The first photograph being captured, without any immediate analysis"
+          },
+          "answer": "B"
+        },
+        "Q4": {
+          "question": "Which statement is the most accurate?",
+          "options": {
+            "A": "The probe reaching Kamo'oalewa directly led to scientists forming a hypothesis about the asteroid's origin",
+            "B": "Scientists' hypothesis about the asteroid's origin directly facilitated the photograph being captured",
+            "C": "Tianwen-2's launch directly led to the first photograph being captured",
+            "D": "The first photograph captured was directly caused by the probe reaching Kamo'oalewa"
+          },
+          "answer": "D"
+        },
+        "Q5": {
+          "question": "If the probe had never reached Kamo'oalewa, which statement would likely be false?",
+          "options": {
+            "A": "Scientists' hypothesis about the asteroid's origin would not have occurred",
+            "B": "Tianwen-2 would still have launched and traveled through deep space",
+            "C": "The photo of Kamo'oalewa would still have led to scientist's hypothesis about the asteroid's origin",
+            "D": "The first photograph could still realistically have been captured due to Tianwen-2's launch alone"
+          },
+          "answer": "D"
+        }
+      },
+      "nodes": {
+        "A": "Tianwen-2 launching",
+        "B": "The probe reaching Kamo'oalewa",
+        "C": "The first photograph being captured",
+        "D": "Scientists forming a hypothesis about the asteroid's origin"
+      }
+    },
+    {
+      "contextId": "chain_03",
+      "dagType": "chain",
+      "dag": [
+        "A -> B",
+        "B -> C",
+        "C -> D"
+      ],
+      "passage": "The satirical candidate Count Binface has emerged as Nigel Farage's only serious rival in an unusual by-election, one Farage, the Reform UK leader, triggered himself by strategically resigning his parliamentary seat so voters could directly judge his conduct. That conduct is the subject of a parliamentary investigation into millions of pounds in gifts Farage received from wealthy backers. Mainstream parties have refused to stand, unanimously dismissing the contest as a stunt designed to distract from the investigation.",
+      "questions": {
+        "Q1": {
+          "question": "Which statement most completely describes an event or events in the context happening because of an earlier event whilst contributing to a later development?",
+          "options": {
+            "A": "Various mainstream parties in the area boycotting the by-election",
+            "B": "No such events exist",
+            "C": "Mainstream parties boycotting & Farage's resigning seat",
+            "D": "The parliamentary investigation into gifts & mainstream parties boycotting"
+          },
+          "answer": "C"
+        },
+        "Q2": {
+          "question": "Which event was the most essential to this scenario as a whole, and to other possible events occurring?",
+          "options": {
+            "A": "Farage strategically resigning his seat",
+            "B": "The investigation into gifts Farage received",
+            "C": "Mainstream parties boycotting the by-election",
+            "D": "Count Binface emerging as Farage's only serious rival"
+          },
+          "answer": "B"
+        },
+        "Q3": {
+          "question": "Which event has no influence on any other possible events?",
+          "options": {
+            "A": "Mainstream parties boycotting, without any immediate public statement",
+            "B": "Farage resigning his seat to force the by-election",
+            "C": "Count Binface emerging as Farage's only serious rival",
+            "D": "The parliamentary investigation solely examining gifts"
+          },
+          "answer": "C"
+        },
+        "Q4": {
+          "question": "Which statement is the most accurate?",
+          "options": {
+            "A": "Count Binface emerging as the only rival directly facilitated and explained mainstream parties boycotting the by-election",
+            "B": "Farage's resignation prompting the by-election directly allowed count binface to become the only rival.",
+            "C": "The parliamentary investigation directly led to mainstream parties boycotting the by-election",
+            "D": "The boycott by various mainstream parties in the area was directly caused by the by-election from resignation"
+          },
+          "answer": "D"
+        },
+        "Q5": {
+          "question": "If Farage had never resigned his seat, which statement would likely be false?",
+          "options": {
+            "A": "Count Binface would not have emerged as the only serious rival to Farage's in this by-election",
+            "B": "The parliamentary investigation into gifts would still be ongoing",
+            "C": "The boycotting by mainstream parties would still have led to count binface being the only rival",
+            "D": "Mainstream parties could still realistically have boycotted this by-election due to the investigation alone"
+          },
+          "answer": "D"
+        }
+      },
+      "nodes": {
+        "A": "The parliamentary investigation into gifts",
+        "B": "Farage resigning his seat to force the by-election",
+        "C": "Mainstream parties boycotting the by-election",
+        "D": "Count Binface emerging as the only serious rival"
+      }
+    },
+    {
+      "contextId": "chain_04",
+      "dagType": "chain",
+      "dag": [
+        "A -> B",
+        "B -> C",
+        "C -> D"
+      ],
+      "passage": "Russia has deployed its Volna Kupol Garant jamming system along contested front lines. Ukrainian operators reported difficulty controlling their aircraft, and military analysts have noted a reduction in the drone campaign's overall effectiveness, essentially pointing to the drone campaign being blunted. Starlink connections were disrupted across roughly 20 square kilometers, a significant blow to Ukrainian drone operations. Ukrainian forces had been using Starlink-guided drones to strike Russian supply lines and disrupt logistics infrastructure in the region.",
+      "questions": {
+        "Q1": {
+          "question": "Which statement most completely describes an event or events in the context happening because of an earlier event whilst contributing to a later development?",
+          "options": {
+            "A": "Starlink connections being disrupted",
+            "B": "Drone connections being disrupted & deployment of jamming systems",
+            "C": "Russia deploying jamming systems & the drone campaign being blunted",
+            "D": "No such events exist"
+          },
+          "answer": "B"
+        },
+        "Q2": {
+          "question": "Which event was the most essential to this scenario as a whole, and to other possible events occurring?",
+          "options": {
+            "A": "Starlink connections being disrupted",
+            "B": "Ukrainian drones striking Russian supply lines",
+            "C": "Russia deploying the Volna Kupol Garant jamming systems",
+            "D": "The Ukrainian drone campaign being potentially blunted"
+          },
+          "answer": "B"
+        },
+        "Q3": {
+          "question": "Which event has no influence on any other possible events?",
+          "options": {
+            "A": "Russia deploying the jamming systems",
+            "B": "Starlink connections being disrupted, without any immediate reported impact",
+            "C": "Ukrainian drones striking solely Russian supply lines",
+            "D": "The Ukrainian drone campaign being potentially blunted"
+          },
+          "answer": "D"
+        },
+        "Q4": {
+          "question": "Which statement is the most accurate?",
+          "options": {
+            "A": "The drone campaign being blunted directly facilitated Starlink connections being disrupted",
+            "B": "Ukrainian drones striking supply lines directly led to their connections through Starlink to be disrupted",
+            "C": "Starlink connections being disrupted was directly caused by Russia's deployment of jamming systems",
+            "D": "Russia deploying jamming systems directly led to Ukrainian drone campaigns being blunted"
+          },
+          "answer": "C"
+        },
+        "Q5": {
+          "question": "If Russia had never deployed the Voln  a Kupol Garant jamming systems, which statement would likely be false?",
+          "options": {
+            "A": "The Ukrainian drone campaign being blunted, as analysts noted, would not have occurred",
+            "B": "Starlink connections could still realistically have been disrupted due to Ukrainian drone strikes alone",
+            "C": "The disruption of Starlink connections for Ukrainian drones would still have led to the Ukrainian drone campaign being blunted",
+            "D": "Ukrainian drones would still have been striking Russian supply lines"
+          },
+          "answer": "B"
+        }
+      },
+      "nodes": {
+        "A": "Ukrainian drones striking Russian supply lines",
+        "B": "Russia deploying Volna Kupol Garant jamming systems",
+        "C": "Starlink connections being disrupted",
+        "D": "The Ukrainian drone campaign being potentially blunted"
+      }
+    },
+    {
+      "contextId": "fork_01",
+      "dagType": "fork",
+      "dag": [
+        "A -> B",
+        "A -> C",
+        "A -> D"
+      ],
+      "passage": "Canadian astronaut Jeremy Hansen has received widespread international recognition over the past several months. The Canadian Space Agency publicly praised his leadership and professionalism during that same stretch. Earlier in the year, Artemis II had carried Hansen and his crew around the Moon and completed its mission successfully, making him one of the first humans to make that trip in over 50 years. Hansen has since announced that he will step back from his full-time astronaut role to pursue new professional opportunities.",
+      "questions": {
+        "Q1": {
+          "question": "Which statement most accurately describes Hansen gaining international recognition?",
+          "options": {
+            "A": "Knowing Hansen gaining international recognition may help us understand Canadian Space Agency praising his leadership and Hansen stepping back to pursue new opportunities even though Hansen gaining international recognition neither directly nor indirectly causes either of them.",
+            "B": "Knowing Canadian Space Agency praising his leadership may help us understand Hansen gaining international recognition because Canadian Space Agency praising his leadership indirectly influences Hansen gaining international recognition.",
+            "C": "Knowing Artemis II mission success may help us understand Hansen gaining international recognition because Artemis II mission success indirectly influences Hansen gaining international recognition.",
+            "D": "Knowing Hansen stepping back to pursue new opportunities may help us understand Hansen gaining international recognition because Hansen stepping back to pursue new opportunities indirectly influences Hansen gaining international recognition."
+          },
+          "answer": "A"
+        },
+        "Q2": {
+          "question": "Which is the likeliest reason for Hansen stepping back to pursue new opportunities?",
+          "options": {
+            "A": "The Artemis II mission success",
+            "B": "The Canadian Space Agency praising his leadership and Hansen gaining international recognition",
+            "C": "Hansen gaining international recognition and the Artemis II mission success",
+            "D": "Hansen gaining international recognition"
+          },
+          "answer": "A"
+        },
+        "Q3": {
+          "question": "Which statement best describes the Artemis II mission success?",
+          "options": {
+            "A": "It only directly leads to Hansen gaining international recognition",
+            "B": "It leads to both Hansen's international recognition and the Canadian Space Agency praising his leadership, at which both events lead to his decision to step back to pursue new opportunities",
+            "C": "It leads to Hansen's international recognition and his decision to step back and pursue new opportunities",
+            "D": "It only leads to the Canadian Space Agency praising his leadership"
+          },
+          "answer": "C"
+        },
+        "Q4": {
+          "question": "If Hansen never gained international recognition and was never praised for his leadership by the Canadian Space Agency, which statement describes the most likely outcome?",
+          "options": {
+            "A": "The entire scenario would collapse, both events are crucial to the scenario",
+            "B": "The Artemis II mission would still be a success but Hansen wouldn't step back to pursue new opportunities",
+            "C": "Hansen would still step back to pursue new opportunities but the Artemis II mission would fail",
+            "D": "Hansen would still step back to pursue new opportunities and the Artemis II mission would still be a success"
+          },
+          "answer": "D"
+        },
+        "Q5": {
+          "question": "Which statement is the most accurate?",
+          "options": {
+            "A": "Hansen gaining international recognition directly led to his decision to step back and pursue new opportunities",
+            "B": "The Canadian Space Agency praising Hansen's leadership directly led to him pursuing new opportunities",
+            "C": "Hansen stepping back to pursue new opportunities is directly and only caused by the Artemis II mission success",
+            "D": "Hansen's international recognition is the main reason for the Artemis II mission's success"
+          },
+          "answer": "C"
+        }
+      },
+      "nodes": {
+        "A": "Artemis II mission success",
+        "B": "Hansen gaining international recognition",
+        "C": "Canadian Space Agency praising his leadership",
+        "D": "Hansen stepping back to pursue new opportunities"
+      }
+    },
+    {
+      "contextId": "fork_02",
+      "dagType": "fork",
+      "dag": [
+        "A -> B",
+        "A -> C",
+        "A -> D"
+      ],
+      "passage": "Public interest in longevity medicine and intensive health tracking has climbed among people seeking answers to poorly understood conditions. The rise followed news that Bryan Johnson, a prominent longevity researcher, had been diagnosed with autoimmune gastritis, a condition with no known cure. Calls for more scientific research and funding into autoimmune diseases have grown louder in the months since. The diagnosis has also underscored how little is known about these conditions, and openings for pseudoscientific treatments have widened over the same period.",
+      "questions": {
+        "Q1": {
+          "question": "Which statement most accurately describes Increased interest in longevity medicine?",
+          "options": {
+            "A": "Knowing Opportunities for pseudoscientific treatments may help us understand Increased interest in longevity medicine because Opportunities for pseudoscientific treatments indirectly influences Increased interest in longevity medicine.",
+            "B": "Knowing Drive for scientific progress and funding may help us understand Increased interest in longevity medicine because Drive for scientific progress and funding indirectly influences Increased interest in longevity medicine.",
+            "C": "Knowing Increased interest in longevity medicine may help us understand Opportunities for pseudoscientific treatments and Drive for scientific progress and funding even though Increased interest in longevity medicine neither directly nor indirectly causes either of them.",
+            "D": "Knowing Bryan Johnson's autoimmune disease diagnosis may help us understand Increased interest in longevity medicine because Bryan Johnson's autoimmune disease diagnosis indirectly influences Increased interest in longevity medicine."
+          },
+          "answer": "C"
+        },
+        "Q2": {
+          "question": "Which is the likeliest reason for the drive for more scientific research and funding into autoimmune diseases?",
+          "options": {
+            "A": "Increased public interest in longevity medicine",
+            "B": "The opportunities for pseudoscientific treatments and Johnson's autoimmune disease diagnosis",
+            "C": "Johnson's autoimmune disease diagnosis",
+            "D": "Increased public interest in longevity medicine and the opportunities for pseudoscientific treatments"
+          },
+          "answer": "C"
+        },
+        "Q3": {
+          "question": "Which statement best describes Johnson's autoimmune disease diagnosis?",
+          "options": {
+            "A": "It leads to increased public interest in longevity medicine and the drive for scientific progress and funding",
+            "B": "It only directly leads to increased public interest in longevity medicine",
+            "C": "It only leads to opportunities for pseudoscientific treatments",
+            "D": "It leads to both increased public interest in longevity medicine and opportunities for pseudoscientific treatments, at which both events lead to the drive for scientific progress and funding"
+          },
+          "answer": "A"
+        },
+        "Q4": {
+          "question": "If public interest in longevity medicine had never increased and pseudoscientific treatment opportunities had never arisen, which statement describes the most likely outcome?",
+          "options": {
+            "A": "There would still be a drive for scientific progress and funding, but the diagnosis would not have occurred",
+            "B": "The entire scenario would collapse, both events are crucial to the scenario",
+            "C": "The diagnosis would still have occurred, but there would be no drive for scientific progress and funding",
+            "D": "There would still be a drive for scientific progress and funding, and the diagnosis would still have occurred"
+          },
+          "answer": "D"
+        },
+        "Q5": {
+          "question": "Which statement is the most accurate?",
+          "options": {
+            "A": "The opportunities for pseudoscientific treatments directly led to the drive for scientific research and funding",
+            "B": "The drive for scientific progress and funding is directly and only caused by Johnson's autoimmune disease diagnosis",
+            "C": "Increased public interest in longevity medicine is the main reason for Johnson's autoimmune disease diagnosis",
+            "D": "Increased public interest in longevity medicine directly led to the drive for scientific research and funding"
+          },
+          "answer": "B"
+        }
+      },
+      "nodes": {
+        "A": "Bryan Johnson's autoimmune disease diagnosis",
+        "B": "Increased interest in longevity medicine",
+        "C": "Opportunities for pseudoscientific treatments",
+        "D": "Drive for scientific progress and funding"
+      }
+    },
+    {
+      "contextId": "fork_03",
+      "dagType": "fork",
+      "dag": [
+        "A -> B",
+        "A -> C",
+        "A -> D"
+      ],
+      "passage": "Microsoft has installed Helen Chiang as Xbox's first-ever Chief Operating Officer, accountable for profits and losses. The division moved to a centralized studio model around the same time, stripping out layers of management. Both changes came after Xbox reported a 7% decrease in quarterly gaming revenue, with operating margins three to ten times lower than comparable businesses. Game Pass prices have been lowered since then and the AI Gaming Copilot feature cut.",
+      "questions": {
+        "Q1": {
+          "question": "Which statement most accurately describes Restructuring to a centralized studio model?",
+          "options": {
+            "A": "Knowing Restructuring to a centralized studio model may help us understand Helen Chiang installed as first-ever COO and Game Pass prices lowered and AI Gaming Copilot feature cut even though Restructuring to a centralized studio model neither directly nor indirectly causes either of them.",
+            "B": "Knowing Game Pass prices lowered and AI Gaming Copilot feature cut may help us understand Restructuring to a centralized studio model because Game Pass prices lowered and AI Gaming Copilot feature cut indirectly influences Restructuring to a centralized studio model.",
+            "C": "Knowing Xbox reporting declining revenue and low operating margins may help us understand Restructuring to a centralized studio model because Xbox reporting declining revenue and low operating margins indirectly influences Restructuring to a centralized studio model.",
+            "D": "Knowing Helen Chiang installed as first-ever COO may help us understand Restructuring to a centralized studio model because Helen Chiang installed as first-ever COO indirectly influences Restructuring to a centralized studio model."
+          },
+          "answer": "A"
+        },
+        "Q2": {
+          "question": "Which is the likeliest reason for Helen Chiang being installed as Xbox's first-ever COO?",
+          "options": {
+            "A": "Game Pass prices being lowered and Xbox reporting declining revenue with low operating margins",
+            "B": "Xbox reporting declining revenue and low operating margins",
+            "C": "The restructuring to a centralized studio model",
+            "D": "The restructuring to a centralized studio model and Game Pass prices being lowered"
+          },
+          "answer": "B"
+        },
+        "Q3": {
+          "question": "Which statement best describes Xbox reporting declining revenue and low operating margins?",
+          "options": {
+            "A": "It leads to both the restructuring to a centralized studio model and Helen Chiang being installed as COO, at which both events lead to Game Pass prices being lowered with the AI Copilot feature being cut",
+            "B": "It only leads to Helen Chiang being installed as COO",
+            "C": "It only directly leads to the restructuring to a centralized studio model",
+            "D": "It leads to the restructuring to a centralized studio model and Game Pass prices being lowered with the AI Copilot feature being cut"
+          },
+          "answer": "D"
+        },
+        "Q4": {
+          "question": "If Xbox had never restructured to a centralized studio model and Helen Chiang had never been installed as COO, which statement describes the most likely outcome?",
+          "options": {
+            "A": "Game Pass prices would still be lowered with the AI Copilot feature cut, and the revenue decline would still have occurred",
+            "B": "Game Pass prices would still be lowered with the AI Copilot feature cut, but the revenue decline would not have occurred",
+            "C": "The entire scenario would collapse, both events are crucial to the scenario",
+            "D": "The revenue decline would still have occurred, but Game Pass prices would not be lowered with the AI Copilot feature would not be cut"
+          },
+          "answer": "A"
+        },
+        "Q5": {
+          "question": "Which statement is the most accurate?",
+          "options": {
+            "A": "The restructuring to a centralized studio model is the main reason for Xbox reporting declining revenue and low operating margins",
+            "B": "Helen Chiang being installed as COO directly led to Game Pass prices being lowered with the AI Copilot feature being cut",
+            "C": "The restructuring to a centralized studio model directly led to Game Pass prices being lowered with the AI Copilot feature being cut",
+            "D": "Game Pass prices being lowered with the AI Copilot feature being cut is directly and only caused by Xbox reporting declining revenue and low operating margins"
+          },
+          "answer": "D"
+        }
+      },
+      "nodes": {
+        "A": "Xbox reporting declining revenue and low operating margins",
+        "B": "Restructuring to a centralized studio model",
+        "C": "Helen Chiang installed as first-ever COO",
+        "D": "Game Pass prices lowered and AI Gaming Copilot feature cut"
+      }
+    },
+    {
+      "contextId": "fork_04",
+      "dagType": "fork",
+      "dag": [
+        "A -> B",
+        "A -> C",
+        "A -> D"
+      ],
+      "passage": "Havana's cityscape in the Assassin's Creed Black Flag remake carries double the asset density of Assassin's Creed Shadows. Ubisoft had rebuilt the game's assets in full after determining the original 2013 versions were incompatible with modern physically-based rendering and ray tracing pipelines. Original motion capture facial performances were carried into that new build through a multi-stage transfer pipeline requiring extensive manual artist work. The water tessellation system was rewritten from scratch over the same stretch of production, using a compute-driven persistent mesh.",
+      "questions": {
+        "Q1": {
+          "question": "Which statement most accurately describes Havana cityscape density doubling that of Assassin's Creed Shadows?",
+          "options": {
+            "A": "Knowing Original motion capture facial performances preserved may help us understand Havana cityscape density doubling that of Assassin's Creed Shadows because Original motion capture facial performances preserved indirectly influences Havana cityscape density doubling that of Assassin's Creed Shadows.",
+            "B": "Knowing Water tessellation system completely rewritten may help us understand Havana cityscape density doubling that of Assassin's Creed Shadows because Water tessellation system completely rewritten indirectly influences Havana cityscape density doubling that of Assassin's Creed Shadows.",
+            "C": "Knowing Ubisoft initiating a full asset rebuild phase may help us understand Havana cityscape density doubling that of Assassin's Creed Shadows because Ubisoft initiating a full asset rebuild phase indirectly influences Havana cityscape density doubling that of Assassin's Creed Shadows.",
+            "D": "Knowing Havana cityscape density doubling that of Assassin's Creed Shadows may help us understand Water tessellation system completely rewritten and Original motion capture facial performances preserved even though Havana cityscape density doubling that of Assassin's Creed Shadows neither directly nor indirectly causes either of them."
+          },
+          "answer": "D"
+        },
+        "Q2": {
+          "question": "Which is the likeliest reason for the water tessellation system being completely rewritten?",
+          "options": {
+            "A": "Ubisoft initiating a full asset rebuild phase",
+            "B": "Havana's cityscape achieving double the asset density of Shadows",
+            "C": "Havana's cityscape achieving double the asset density of Shadows and the preservation of original facial performances",
+            "D": "The preservation of original facial performances and Ubisoft initiating a full asset rebuild phase"
+          },
+          "answer": "A"
+        },
+        "Q3": {
+          "question": "Which statement best describes Ubisoft initiating a full asset rebuild phase?",
+          "options": {
+            "A": "It only directly leads to Havana's cityscape achieving double the asset density of Shadows",
+            "B": "It leads to Havana's cityscape achieving double the asset density of Shadows and the preservation of original facial performances",
+            "C": "It leads to both Havana's cityscape achieving double the asset density of Shadows and the water tessellation system being completely rewritten, at which both events lead to the preservation of original facial performances",
+            "D": "It only leads to the water tessellation system being completely rewritten"
+          },
+          "answer": "B"
+        },
+        "Q4": {
+          "question": "If Havana's cityscape had never achieved double the asset density of Shadows and the water tessellation system had never been rewritten, which statement describes the most likely outcome?",
+          "options": {
+            "A": "Original facial performances would still be preserved through the multi-stage pipeline, but the asset rebuild would not have occurred",
+            "B": "Original facial performances would still be preserved through the multi-stage pipeline, and the asset rebuild would still have occurred",
+            "C": "The entire scenario would collapse, both events are crucial to the scenario",
+            "D": "The asset rebuild would still have occurred, but original facial performances would not be preserved through the multi-stage pipeline"
+          },
+          "answer": "B"
+        },
+        "Q5": {
+          "question": "Which statement is the most accurate?",
+          "options": {
+            "A": "The preservation of original facial performances through the multi-stage pipeline is directly and only caused by Ubisoft initiating a full asset rebuild phase",
+            "B": "The water tessellation system being completely rewritten directly led to the preservation of original facial performances through the multi-stage pipeline",
+            "C": "Havana's cityscape achieving double the asset density of Shadows is the main reason for Ubisoft initiating a full asset rebuild phase",
+            "D": "Havana's cityscape achieving double the asset density of Shadows directly led to the preservation of original facial performances through the multi-stage pipeline"
+          },
+          "answer": "A"
+        }
+      },
+      "nodes": {
+        "A": "Ubisoft initiating a full asset rebuild phase",
+        "B": "Havana cityscape density doubling that of Assassin's Creed Shadows",
+        "C": "Water tessellation system completely rewritten",
+        "D": "Original motion capture facial performances preserved"
+      }
+    },
+    {
+      "contextId": "collider_01",
+      "dagType": "collider",
+      "dag": [
+        "A -> D",
+        "B -> D",
+        "C -> D"
+      ],
+      "passage": "Delta Airlines had long sought to extract more revenue from high-spending premium travelers. Separately, Glen Hauenstein, Delta's former president, had spent over a year developing a specific vision for tiering and segmenting premium cabin offerings as a distinct product strategy, motivated by her motto that \"Different people have different needs.\" United Airlines also introduced a basic fare tier for its premium business class cabins earlier on the same year, removing perks such as free seat selection for lower-priced tickets, which Delta Airlines took note of. Delta Airlines subsequently announced its own Basic Business fare.",
+      "questions": {
+        "Q1": {
+          "question": "Which of the following statements is most accurate?",
+          "options": {
+            "A": "United Airlines introducing basic business fares, Delta's strategic goal of maximizing premium revenue, and Hauenstein's tiered segmentation vision are likely unrelated to one another, and no causal link is supported between them",
+            "B": "Delta introducing Basic Business fares accounts for United's fare introduction, Delta's strategic goal, and Hauenstein's vision, which is why they would appear related",
+            "C": "Some of United's fare introduction, Delta's strategic goal, and Hauenstein's vision could have some influence on each other, as some relationships do occur between them",
+            "D": "United Airlines introducing basic business fares, Delta's strategic goal of maximizing premium revenue, and Hauenstein's tiered segmentation vision could potentially have influence on each other despite not being causally related"
+          },
+          "answer": "D"
+        },
+        "Q2": {
+          "question": "If both United Airlines introducing basic business fares and Delta's strategic goal of maximizing premium revenue were removed, which statement is the most accurate?",
+          "options": {
+            "A": "Delta introducing Basic Business fares' likelihood is unaffected by how many events are removed, as long as at least one remains",
+            "B": "Delta introducing Basic Business fares could occur, despite most events being removed",
+            "C": "Delta introducing Basic Business fares would likely not occur, as it relied on United's fare introduction and Delta's strategic goal",
+            "D": "Delta introducing Basic Business fares' outcome likely cannot be understood under any scenario, since removing two events leaves too little information to reason about"
+          },
+          "answer": "B"
+        },
+        "Q3": {
+          "question": "Which event or events have the fewest direct connections to other events in this scenario?",
+          "options": {
+            "A": "Delta's strategic goal of maximizing premium revenue",
+            "B": "Both United's fare introduction and Delta's strategic goal",
+            "C": "United Airlines introducing basic business fares",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        },
+        "Q4": {
+          "question": "If United Airlines introducing basic business fares had never occurred, which statement would be the most accurate?",
+          "options": {
+            "A": "Delta introducing Basic Business fares will likely still occur because both Delta's strategic goal and Hauenstein's vision still influence it, and they would still exist because United's fare introduction is independent to both of them.",
+            "B": "Knowing whether Delta introduced Basic Business fares may help come to a conclusion",
+            "C": "Delta's strategic goal and Hauenstein's vision would also not have occurred, since all three are accounted for by the same reason.",
+            "D": "Delta's strategic goal and Hauenstein's vision would both remain unrelated to United's fare introduction, since they aren't causally related to United's fare introduction and are independent to it, with no causal relationships."
+          },
+          "answer": "B"
+        },
+        "Q5": {
+          "question": "What is the effect of United Airlines introducing basic business fares?",
+          "options": {
+            "A": "Delta's strategic goal and Hauenstein's vision",
+            "B": "Delta introducing Basic Business fares and Delta's strategic goal",
+            "C": "Hauenstein's vision and Delta introducing Basic Business fares",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        }
+      },
+      "nodes": {
+        "A": "United Airlines introducing basic business fares",
+        "B": "Delta's strategic goal of maximizing revenue from premium travelers",
+        "C": "Hauenstein's yearlong product vision for tiered premium cabin segmentation",
+        "D": "Delta introducing Basic Business fares"
+      }
+    },
+    {
+      "contextId": "collider_02",
+      "dagType": "collider",
+      "dag": [
+        "A -> D",
+        "B -> D",
+        "C -> D"
+      ],
+      "passage": "Internet sleuths noted that actress Margaret Qualley had removed all photos featuring her husband Jack Antonoff from her Instagram page. Antonoff was also observed attending Taylor Swift and Travis Kelce's wedding in New York City without Qualley present. Separately, Lena Dunham's memoir published in April alleged that Antonoff had a romantic relationship with a teen pop star during their time together. Widespread speculation and controversy about the state of the Qualley-Antonoff marriage later occurred online, with many wondering about the future of the relationship.",
+      "questions": {
+        "Q1": {
+          "question": "Which of the following statements is most accurate?",
+          "options": {
+            "A": "Some of Qualley's Instagram activity, Antonoff's wedding attendance, and Dunham's allegations could have some influence on each other, as some relationships do occur between them",
+            "B": "Qualley scrubbing photos from Instagram, Antonoff attending the wedding without Qualley, and Dunham's memoir allegations could potentially have influence on each other despite not being causally related",
+            "C": "Qualley scrubbing photos from Instagram, Antonoff attending the wedding without Qualley, and Dunham's memoir allegations are likely unrelated to one another, and no causal link is supported between them",
+            "D": "Speculation about the relationship split accounts for Qualley's Instagram activity, Antonoff's wedding attendance, and Dunham's allegations, which is why they would appear related"
+          },
+          "answer": "B"
+        },
+        "Q2": {
+          "question": "If both Qualley scrubbing photos from Instagram and Antonoff attending the wedding without Qualley were removed, which statement is the most accurate?",
+          "options": {
+            "A": "Speculation about the relationship split could occur, despite most events being removed",
+            "B": "Speculation about the relationship split's likelihood is unaffected by how many events are removed, as long as at least one remains",
+            "C": "Speculation about the relationship split's outcome likely cannot be understood under any scenario, since removing two events leaves too little information to reason about",
+            "D": "Speculation about the relationship split would likely not occur, as it relied on Qualley's Instagram activity and Antonoff's wedding attendance"
+          },
+          "answer": "A"
+        },
+        "Q3": {
+          "question": "Which event or events have the fewest direct connections to other events in this scenario?",
+          "options": {
+            "A": "Antonoff attending the wedding without Qualley",
+            "B": "Both Qualley's Instagram activity and Antonoff's wedding attendance",
+            "C": "Qualley scrubbing photos from Instagram",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        },
+        "Q4": {
+          "question": "If Qualley scrubbing photos from Instagram had never occurred, which statement would be the most accurate?",
+          "options": {
+            "A": "Speculation about the relationship split will likely still occur because both Antonoff's wedding attendance and Dunham's allegations still influence it, and they would still exist because Qualley's Instagram activity is independent to both of them.",
+            "B": "Antonoff's wedding attendance and Dunham's allegations would also not have occurred, since all three are accounted for by the same reason.",
+            "C": "Antonoff's wedding attendance and Dunham's allegations would both remain unrelated to Qualley's Instagram activity, since they aren't causally related to Qualley's Instagram activity and are independent to it, with no causal relationships.",
+            "D": "Knowing whether speculation about the relationship split occurred may help come to a conclusion"
+          },
+          "answer": "D"
+        },
+        "Q5": {
+          "question": "What is the effect of Qualley scrubbing photos from Instagram?",
+          "options": {
+            "A": "Speculation about the relationship split and Antonoff's wedding attendance",
+            "B": "Antonoff's wedding attendance and Dunham's allegations",
+            "C": "Dunham's allegations and speculation about the relationship split",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        }
+      },
+      "nodes": {
+        "A": "Qualley scrubbing photos of Antonoff from Instagram",
+        "B": "Antonoff attending Taylor Swift's wedding without Qualley",
+        "C": "Lena Dunham's memoir allegations about Antonoff's alleged romance",
+        "D": "Speculation about the relationship split"
+      }
+    },
+    {
+      "contextId": "collider_03",
+      "dagType": "collider",
+      "dag": [
+        "A -> D",
+        "B -> D",
+        "C -> D"
+      ],
+      "passage": "Journalist Katie Couric experienced a sudden health episode during a panel event, after which she could not remember her newborn granddaughter Virginia. Medical staff found she incorrectly believed it was 2024 and that Joe Biden was still president. An MRI ruled out a stroke, which had been considered a top contender. Doctors ultimately diagnosed Couric with transient global amnesia (TGA), a temporary condition causing sudden loss of the ability to form new memories.",
+      "questions": {
+        "Q1": {
+          "question": "Which of the following statements is most accurate?",
+          "options": {
+            "A": "Couric being unable to remember her granddaughter, Couric's incorrect belief about the year and president, and the MRI ruling out a stroke are likely unrelated to one another, and no causal link is supported between them",
+            "B": "The TGA diagnosis accounts for Couric's memory loss, her incorrect belief, and the MRI results, which is why they would appear related",
+            "C": "Some of Couric's memory loss, her incorrect belief, and the MRI results could have some influence on each other, as some relationships do occur between them",
+            "D": "Couric being unable to remember her granddaughter, Couric's incorrect belief about the year and president, and the MRI ruling out a stroke could potentially have influence on each other despite not being causally related"
+          },
+          "answer": "D"
+        },
+        "Q2": {
+          "question": "If both Couric being unable to remember her granddaughter and Couric's incorrect belief about the year and president were removed, which statement is the most accurate?",
+          "options": {
+            "A": "The TGA diagnosis would likely not occur, as it relied on Couric's memory loss and her incorrect belief",
+            "B": "The TGA diagnosis could occur, despite most events being removed",
+            "C": "The TGA diagnosis's likelihood is unaffected by how many events are removed, as long as at least one remains",
+            "D": "The TGA diagnosis's outcome likely cannot be understood under any scenario, since removing two events leaves too little information to reason about"
+          },
+          "answer": "B"
+        },
+        "Q3": {
+          "question": "Which event or events have the fewest direct connections to other events in this scenario?",
+          "options": {
+            "A": "Couric's incorrect belief about the year and president",
+            "B": "Both Couric's memory loss and her incorrect belief",
+            "C": "Couric being unable to remember her granddaughter",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        },
+        "Q4": {
+          "question": "If Couric being unable to remember her granddaughter had never occurred, which statement would be the most accurate?",
+          "options": {
+            "A": "Knowing whether the TGA diagnosis occurred may help come to a conclusion",
+            "B": "Couric's incorrect belief and the MRI results would both remain unrelated to Couric's memory loss, since they aren't causally related to Couric's memory loss and are independent to it, with no causal relationships.",
+            "C": "The TGA diagnosis will likely still occur because both Couric's incorrect belief and the MRI results still influence it, and they would still exist because Couric's memory loss is independent to both of them.",
+            "D": "Couric's incorrect belief and the MRI results would also not have occurred, since all three are accounted for by the same reason."
+          },
+          "answer": "A"
+        },
+        "Q5": {
+          "question": "What is the effect of Couric being unable to remember her granddaughter?",
+          "options": {
+            "A": "Couric's incorrect belief and the MRI results",
+            "B": "The TGA diagnosis and Couric's incorrect belief",
+            "C": "The MRI results and the TGA diagnosis",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        }
+      },
+      "nodes": {
+        "A": "Couric unable to remember her newborn granddaughter Virginia",
+        "B": "Couric incorrectly believing it was 2024 and Biden was president",
+        "C": "MRI showing no stroke, which was a top contender",
+        "D": "The TGA diagnosis"
+      }
+    },
+    {
+      "contextId": "collider_04",
+      "dagType": "collider",
+      "dag": [
+        "A -> D",
+        "B -> D",
+        "C -> D"
+      ],
+      "passage": "Disney released a live-action remake of Moana just two years after the animated sequel Moana 2, generating widespread skepticism among critics. The film received heavy criticism for its underwhelming performances from the cast. Critics also noted the film was a nearly identical 1:1 remake of the original, offering little new creative vision. The film received a 37% score on Rotten Tomatoes, the worst in Disney live-action adaptation history.",
+      "questions": {
+        "Q1": {
+          "question": "Which of the following statements is most accurate?",
+          "options": {
+            "A": "Some of the flat visuals, the 1:1 remake criticism, and the timing skepticism could have some influence on each other, as some relationships do occur between them",
+            "B": "The 37% Rotten Tomatoes score accounts for the flat visuals, the 1:1 remake criticism, and the timing skepticism, which is why they would appear related",
+            "C": "The flat visuals and underwhelming performances, the film being a 1:1 remake, and the widespread skepticism over timing are likely unrelated to one another, and no causal link is supported between them",
+            "D": "The flat visuals and underwhelming performances, the film being a 1:1 remake, and the widespread skepticism over timing could potentially have influence on each other despite not being causally related"
+          },
+          "answer": "D"
+        },
+        "Q2": {
+          "question": "If both the flat visuals and underwhelming performances and the film being a 1:1 remake were removed, which statement is the most accurate?",
+          "options": {
+            "A": "The 37% Rotten Tomatoes score's outcome likely cannot be understood under any scenario, since removing two events leaves too little information to reason about",
+            "B": "The 37% Rotten Tomatoes score's likelihood is unaffected by how many events are removed, as long as at least one remains",
+            "C": "The 37% Rotten Tomatoes score would likely not occur, as it relied on the flat visuals and the 1:1 remake criticism",
+            "D": "The 37% Rotten Tomatoes score could occur, despite most events being removed"
+          },
+          "answer": "D"
+        },
+        "Q3": {
+          "question": "Which event or events have the fewest direct connections to other events in this scenario?",
+          "options": {
+            "A": "Both the flat visuals and the 1:1 remake criticism",
+            "B": "The film being a nearly identical 1:1 remake",
+            "C": "The flat visuals and underwhelming performances",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        },
+        "Q4": {
+          "question": "If the flat visuals and underwhelming performances had never occurred, which statement would be the most accurate?",
+          "options": {
+            "A": "The 1:1 remake criticism and the timing skepticism would both remain unrelated to the flat visuals, since they aren't causally related to the flat visuals and are independent to it, with no causal relationships.",
+            "B": "The 37% Rotten Tomatoes score will likely still occur because both the 1:1 remake criticism and the timing skepticism still influence it, and they would still exist because the flat visuals are independent to both of them.",
+            "C": "Knowing whether the 37% score occurred may help come to a conclusion",
+            "D": "The 1:1 remake criticism and the timing skepticism would also not have occurred, since all three are accounted for by the same reason."
+          },
+          "answer": "C"
+        },
+        "Q5": {
+          "question": "What is the effect of the flat visuals and underwhelming performances?",
+          "options": {
+            "A": "The 37% Rotten Tomatoes score and the 1:1 remake criticism",
+            "B": "The 1:1 remake criticism and the timing skepticism",
+            "C": "The timing skepticism and the 37% Rotten Tomatoes score",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        }
+      },
+      "nodes": {
+        "A": "Flat visuals and underwhelming performances",
+        "B": "The film being a nearly identical 1:1 remake of the original",
+        "C": "Widespread skepticism due to release so soon after Moana 2",
+        "D": "The 37% Rotten Tomatoes score"
+      }
+    },
+    {
+      "contextId": "diamond_01",
+      "dagType": "diamond",
+      "dag": [
+        "A -> B",
+        "A -> C",
+        "B -> D",
+        "C -> D"
+      ],
+      "passage": "Authorities have launched a criminal investigation into a German palliative care doctor's conduct across multiple cases. He had killed a 75-year-old man at his home in central Berlin, and, hours later, a 76-year-old woman in a neighboring district. For years, the doctor had been administering lethal combinations of medicines to patients without their consent during home visits, driven by a lasting intent to continue the practice.",
+      "questions": {
+        "Q1": {
+          "question": "Which statement most completely describes an event or events in the context happening because of an earlier event whilst contributing to a later development?",
+          "options": {
+            "A": "The criminal investigation and the doctor killing a 76-year-old woman",
+            "B": "The doctor murdering both people",
+            "C": "The doctor's intent to kill and him killing a 75-year-old man",
+            "D": "The doctor killing a 75-year-old man"
+          },
+          "answer": "B"
+        },
+        "Q2": {
+          "question": "Which event or events in this account have the most direct connections to other events?",
+          "options": {
+            "A": "The criminal investigation, since it's the point every other event in the account ultimately leads to",
+            "B": "The doctor's intent to kill, since it's the origin every other event traces back to",
+            "C": "The doctor killing the 75-year-old man and killing the 76-year-old woman, since both are directly tied to the intent and the investigation",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        },
+        "Q3": {
+          "question": "Which of the following most accurately characterizes the relationship between the doctor killing the 75-year-old man and killing the 76-year-old woman?",
+          "options": {
+            "A": "They are entirely unrelated, regardless of what is known about the intent or the investigation",
+            "B": "The two deaths seem related in isolation, but both are caused by the doctor's intent directly; thus in isolation they look related, but looking at the entire graph they have no type of influence at all on each other, because the intent confounds for both",
+            "C": "One influences the other, which is why they would appear related",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        },
+        "Q4": {
+          "question": "Which statement is most accurate regarding the two deaths?",
+          "options": {
+            "A": "The two deaths may appear related due to some other unstated event that influenced both",
+            "B": "Both converge on the investigation in a different manner from one another",
+            "C": "The two deaths are entirely unrelated, since neither directly causes the other",
+            "D": "The perception of the two deaths' relationship may depend on more information about other events in the account"
+          },
+          "answer": "D"
+        },
+        "Q5": {
+          "question": "Which statement is most accurate regarding the two deaths?",
+          "options": {
+            "A": "The death of the man indirectly influences the death of the woman",
+            "B": "The two deaths can be related despite not directly or indirectly causing one another",
+            "C": "Both are influenced by the same cause, but in different ways",
+            "D": "They share no connection at all, direct or otherwise"
+          },
+          "answer": "B"
+        }
+      },
+      "nodes": {
+        "A": "The doctor's intent to kill",
+        "B": "The doctor killing a 75-year-old man",
+        "C": "The doctor killing a 76-year-old woman",
+        "D": "The criminal investigation"
+      }
+    },
+    {
+      "contextId": "diamond_02",
+      "dagType": "diamond",
+      "dag": [
+        "A -> B",
+        "A -> C",
+        "B -> D",
+        "C -> D"
+      ],
+      "passage": "The British government has granted Ruth Ellis a conditional pardon. Her grandchildren had presented evidence that her abuser, Blakely, struck her so violently that she suffered a miscarriage. Ellis, the last woman executed in Britain, was hanged in 1955 for killing Blakely, despite suffering prolonged physical and emotional abuse that was never considered at trial, abuse that decades later sparked her grandchildren's grief and determination to seek justice. They had also presented evidence in court that Blakely repeatedly threatened to kill her.",
+      "questions": {
+        "Q1": {
+          "question": "Which statement most completely describes an event or events in the context happening because of an earlier event whilst contributing to a later development?",
+          "options": {
+            "A": "The grandchildren presenting both pieces of evidence",
+            "B": "Evidence of threats to kill presented",
+            "C": "The grandchildren's grief and determination to seek justice and evidence of threats to kill presented",
+            "D": "The conditional pardon and evidence of miscarriage from assault presented"
+          },
+          "answer": "A"
+        },
+        "Q2": {
+          "question": "Which event or events in this account have the most direct connections to other events?",
+          "options": {
+            "A": "Evidence of threats to kill and evidence of miscarriage from assault, since both are directly tied to the grandchildren's motivation and the pardon",
+            "B": "The grandchildren's grief and determination, since it's the origin every other event traces back to",
+            "C": "The conditional pardon, since it's the point every other event in the account ultimately leads to",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        },
+        "Q3": {
+          "question": "Which of the following most accurately characterizes the relationship between the evidence of threats to kill and the evidence of miscarriage from assault?",
+          "options": {
+            "A": "They are entirely unrelated, regardless of what is known about the grandchildren's motivation or the pardon",
+            "B": "One influences the other, which is why they would appear related",
+            "C": "The two pieces of evidence seem related in isolation, but both are motivated by the grandchildren's grief and determination directly; thus in isolation they look related, but looking at the entire graph they have no type of influence at all on each other, because the grandchildren's motivation confounds for both",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        },
+        "Q4": {
+          "question": "Which statement is most accurate regarding the two pieces of evidence (threats to kill and miscarriage from assault)?",
+          "options": {
+            "A": "The perception of the two pieces of evidence's relationship may depend on more information about other events in the account",
+            "B": "Both converge on the pardon in a different manner from one another",
+            "C": "The two pieces of evidence may appear related due to some other unstated event that influenced both",
+            "D": "The two pieces of evidence are entirely unrelated, since neither directly causes the other"
+          },
+          "answer": "A"
+        },
+        "Q5": {
+          "question": "Which statement is most accurate regarding the two pieces of evidence (threats to kill and miscarriage from assault)?",
+          "options": {
+            "A": "Both are influenced by the same cause, but in different ways",
+            "B": "The threats evidence indirectly influences the miscarriage evidence",
+            "C": "The two pieces of evidence can be related despite not directly or indirectly causing one another",
+            "D": "They share no connection at all, direct or otherwise"
+          },
+          "answer": "C"
+        }
+      },
+      "nodes": {
+        "A": "The grandchildren's grief and determination to seek justice",
+        "B": "Evidence of threats to kill presented",
+        "C": "Evidence of miscarriage from assault presented",
+        "D": "The conditional pardon granted"
+      }
+    },
+    {
+      "contextId": "diamond_03",
+      "dagType": "diamond",
+      "dag": [
+        "A -> B",
+        "A -> C",
+        "B -> D",
+        "C -> D"
+      ],
+      "passage": "Key spreading events at a mid-ocean ridge occurred without any obvious seismic activity, according to newly analyzed data. Scientists have also gained new insight into how oceanic crust forms at such ridges. A team of French scientists had deployed underwater monitoring equipment in 2024 along the spreading zone, on the border between the Australian and Antarctic plates. That same equipment had captured most of the spreading occurring within a remarkably short time window.",
+      "questions": {
+        "Q1": {
+          "question": "Which statement most completely describes an event or events in the context happening because of an earlier event whilst contributing to a later development?",
+          "options": {
+            "A": "French scientists deploying monitoring equipment and rapid spreading discovered in a short time window",
+            "B": "The discovery of both rapid spreading and the lack of seismic activity",
+            "C": "Rapid spreading discovered in a short time window",
+            "D": "The improved understanding of oceanic crust formation and the discovery of events without seismic activity"
+          },
+          "answer": "B"
+        },
+        "Q2": {
+          "question": "Which event or events in this account have the most direct connections to other events?",
+          "options": {
+            "A": "French scientists deploying monitoring equipment, since it's the origin every other event traces back to",
+            "B": "The rapid spreading discovery and the discovery of events without seismic activity, since both are directly tied to the equipment deployment and the improved understanding",
+            "C": "The improved understanding of oceanic crust formation, since it's the point every other event in the account ultimately leads to",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        },
+        "Q3": {
+          "question": "Which of the following most accurately characterizes the relationship between the rapid spreading discovery and the discovery of events without seismic activity?",
+          "options": {
+            "A": "The two findings seem related in isolation, but both stem from the equipment deployment directly; thus in isolation they look related, but looking at the entire graph they have no type of influence at all on each other, because the equipment deployment confounds for both",
+            "B": "They are entirely unrelated, regardless of what is known about the equipment deployment or the improved understanding",
+            "C": "One influences the other, which is why they would appear related",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        },
+        "Q4": {
+          "question": "Which statement is most accurate regarding the two findings (rapid spreading and events without seismic activity)?",
+          "options": {
+            "A": "Both converge on the improved understanding in a different manner from one another",
+            "B": "The two findings are entirely unrelated, since neither directly causes the other",
+            "C": "The two findings may appear related due to some other unstated event that influenced both",
+            "D": "The perception of the two findings' relationship may depend on more information about other events in the account"
+          },
+          "answer": "D"
+        },
+        "Q5": {
+          "question": "Which statement is most accurate regarding the two findings (rapid spreading and events without seismic activity)?",
+          "options": {
+            "A": "The rapid spreading finding indirectly influences the seismic activity finding",
+            "B": "Both are influenced by the same cause, but in different ways",
+            "C": "The two findings can be related despite not directly or indirectly causing one another",
+            "D": "They share no connection at all, direct or otherwise"
+          },
+          "answer": "C"
+        }
+      },
+      "nodes": {
+        "A": "French scientists deploying monitoring equipment",
+        "B": "Rapid spreading discovered in a short time window",
+        "C": "Discovery of events occurring without seismic activity",
+        "D": "Improved understanding of oceanic crust formation"
+      }
+    },
+    {
+      "contextId": "diamond_04",
+      "dagType": "diamond",
+      "dag": [
+        "A -> B",
+        "A -> C",
+        "B -> D",
+        "C -> D"
+      ],
+      "passage": "Mark Zuckerberg has expedited a massive compute ramp at Meta, enabled by a new Tent datacenter design. The company has become recognized as the only hyperscaler on track to achieve world-class capabilities across both talent and compute. Following the disastrous Llama 4 release, Zuckerberg had decided to rebuild Meta's entire AI organization from the ground up. He had also offered multi-hundred million dollar pay packages to top AI researchers and engineers around that time, aiming to attract elite talent.",
+      "questions": {
+        "Q1": {
+          "question": "Which statement most completely describes an event or events in the context happening because of an earlier event whilst contributing to a later development?",
+          "options": {
+            "A": "Offering multi-hundred million dollar pay packages",
+            "B": "Offering pay packages and expediting the compute ramp",
+            "C": "Zuck deciding to rebuild the AI organization and offering multi-hundred million dollar pay packages",
+            "D": "Meta emerging as the only hyperscaler and expediting the compute ramp"
+          },
+          "answer": "B"
+        },
+        "Q2": {
+          "question": "Which event or events in this account have the most direct connections to other events?",
+          "options": {
+            "A": "The pay packages and the compute ramp, since both are directly tied to Zuck's decision and Meta's hyperscaler status",
+            "B": "Zuck deciding to rebuild the AI organization, since it's the origin every other event traces back to",
+            "C": "Meta emerging as the only hyperscaler, since it's the point every other event in the account ultimately leads to",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        },
+        "Q3": {
+          "question": "Which of the following most accurately characterizes the relationship between the pay packages and the compute ramp?",
+          "options": {
+            "A": "The two initiatives seem related in isolation, but both stem from Zuck's decision directly; thus in isolation they look related, but looking at the entire graph they have no type of influence at all on each other, because Zuck's decision confounds for both",
+            "B": "One influences the other, which is why they would appear related",
+            "C": "They are entirely unrelated, regardless of what is known about Zuck's decision or Meta's hyperscaler status",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        },
+        "Q4": {
+          "question": "Which statement is most accurate regarding the two initiatives (pay packages and compute ramp)?",
+          "options": {
+            "A": "The perception of the two initiatives' relationship may depend on more information about other events in the account",
+            "B": "Both converge on Meta's hyperscaler status in a different manner from one another",
+            "C": "The two initiatives are entirely unrelated, since neither directly causes the other",
+            "D": "The two initiatives may appear related due to some other unstated event that influenced both"
+          },
+          "answer": "A"
+        },
+        "Q5": {
+          "question": "Which statement is most accurate regarding the two initiatives (pay packages and compute ramp)?",
+          "options": {
+            "A": "The pay packages indirectly influence the compute ramp",
+            "B": "Both are influenced by the same cause, but in different ways",
+            "C": "They share no connection at all, direct or otherwise",
+            "D": "The two initiatives can be related despite not directly or indirectly causing one another"
+          },
+          "answer": "D"
+        }
+      },
+      "nodes": {
+        "A": "Zuck deciding to rebuild the entire AI organization",
+        "B": "Multi-hundred million dollar pay packages offered to top AI researchers",
+        "C": "Expedited compute ramp via the new Tent datacenter design",
+        "D": "Meta emerging as the only hyperscaler world-class across data, talent, and compute"
+      }
+    },
+    {
+      "contextId": "divchain_01",
+      "dagType": "divchain",
+      "dag": [
+        "A -> B",
+        "B -> C",
+        "B -> D"
+      ],
+      "passage": "Candidates have increasingly been encouraged to use AI tools during technical interview rounds, a seemingly counterintuitive trend. Interview processes across the US industry had begun changing significantly by that point. The rapid boom in AI tools and capabilities had reshaped the software engineering field well before that, leaving companies to rethink how they evaluate candidates. Some CEOs began scouring platforms like GitHub and X to directly identify and recruit undiscovered engineering talent as those processes shifted.",
+      "questions": {
+        "Q1": {
+          "question": "Which event was the most essential to this scenario as a whole, and to other possible events occurring?",
+          "options": {
+            "A": "CEOs scouring GitHub and X for talent, prompting people to be proactive on coding and socializing platforms",
+            "B": "Candidates being encouraged to use AI during interviews",
+            "C": "The AI boom in software engineering",
+            "D": "Interview processes changing across the US, revamping how employees are selected"
+          },
+          "answer": "C"
+        },
+        "Q2": {
+          "question": "If candidates had never been encouraged to use AI tools during interviews, what describes the likely outcome regarding CEOs scouring GitHub and X for talent?",
+          "options": {
+            "A": "Interview processes would also have stopped changing, since candidates' AI use was the direct trigger for that shift",
+            "B": "CEOs would likely still scour GitHub and X, since that shift stemmed from interview processes changing broadly, not from candidates' AI use specifically",
+            "C": "CEOs would likely stop scouring GitHub and X, since AI-assisted interviews were what pushed them to seek alternative signals of raw, unassisted talent",
+            "D": "CEOs would likely still scour GitHub and X, but only because the AI boom in software engineering directly caused that shift, independent of interview processes changing"
+          },
+          "answer": "B"
+        },
+        "Q3": {
+          "question": "Which statement is false given the context?",
+          "options": {
+            "A": "The AI boom leads to interview processes changing, which doesn't lead to only candidates being encouraged to use AI tools during interviews",
+            "B": "The AI boom indirectly leads to interview processes changing, which leads to CEOs scouring GitHub and X for talent",
+            "C": "CEOs scouring platforms and candidates being encouraged to use AI tools seem related",
+            "D": "None of the above"
+          },
+          "answer": "B"
+        },
+        "Q4": {
+          "question": "If interview processes were never to change, which statement describes the likely outcome?",
+          "options": {
+            "A": "Candidates would not be encouraged to use AI during interviews and CEOs would not scour GitHub and X, though the AI boom in software engineering would likely still occur",
+            "B": "The AI boom in software engineering would likely not have occurred, since sustained interview changes are what validate and reinforce broader industry adoption of AI tools",
+            "C": "Candidates would still be encouraged to use AI during interviews, but CEOs would stop scouring GitHub and X, since only one of the two outcomes depends on interview processes changing",
+            "D": "Candidates would still be encouraged to use AI during interviews and CEOs would still scour GitHub and X, since both stem directly from the AI boom regardless of interview processes changing"
+          },
+          "answer": "A"
+        },
+        "Q5": {
+          "question": "Which statement describes an accurate relationship?",
+          "options": {
+            "A": "Interview processes changing mainly causes CEOs scouring GitHub",
+            "B": "Candidates being encouraged to use AI during interviews has an influence on interview processes changing, as interview processes change partly because of candidates being encouraged to use AI",
+            "C": "CEOs scouring GitHub and X for talent has an influence on candidates being encouraged to use AI during interviews",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        }
+      },
+      "nodes": {
+        "A": "The AI boom in software engineering",
+        "B": "Interview processes changing across the US",
+        "C": "CEOs scouring GitHub and X for talent",
+        "D": "Candidates being encouraged to use AI during interviews"
+      }
+    },
+    {
+      "contextId": "divchain_02",
+      "dagType": "divchain",
+      "dag": [
+        "A -> B",
+        "B -> C",
+        "B -> D"
+      ],
+      "passage": "Residents of Rosemont temporarily reported noticing higher numbers of mosquitoes than usual. Some 144,000 sterile male mosquitoes had been released into the neighborhood shortly before. The release was part of a sterile insect technique program the Sacramento-Yolo Mosquito and Vector Control District launched to combat the invasive Aedes aegypti population there. That population's reproduction cycle has since begun showing signs of disruption.",
+      "questions": {
+        "Q1": {
+          "question": "Which event was the most essential to this scenario as a whole, and to other possible events occurring?",
+          "options": {
+            "A": "The invasive Aedes aegypti reproduction cycle being interrupted, curbing the population's ability to rebound",
+            "B": "144,000 sterile male mosquitoes being released in Rosemont, marking the program's most visible intervention",
+            "C": "The Sacramento-Yolo District launching its sterile insect technique program",
+            "D": "Residents temporarily seeing more mosquitoes in the neighborhood"
+          },
+          "answer": "C"
+        },
+        "Q2": {
+          "question": "If residents had never temporarily seen more mosquitoes, what describes the likely outcome regarding the reproduction cycle being interrupted?",
+          "options": {
+            "A": "The mosquito release would also not have occurred, since residents noticing more mosquitoes was the direct trigger for the release",
+            "B": "The reproduction cycle would likely still be interrupted, since that effect stemmed from the mosquito release broadly, not from residents' perceptions specifically",
+            "C": "The reproduction cycle would likely resume normally, since residents noticing more mosquitoes was what pushed authorities to reinforce the interruption efforts",
+            "D": "The reproduction cycle would likely still be interrupted, but only because the sterile insect technique program directly caused that effect, independent of the mosquito release"
+          },
+          "answer": "B"
+        },
+        "Q3": {
+          "question": "Which statement is false given the context?",
+          "options": {
+            "A": "The reproduction cycle being interrupted and residents temporarily seeing more mosquitoes seem related",
+            "B": "The sterile insect technique program leads to mosquitoes being released, which doesn't lead to only residents temporarily seeing more mosquitoes",
+            "C": "The sterile insect technique program indirectly leads to mosquitoes being released, which leads to the reproduction cycle being interrupted",
+            "D": "None of the above"
+          },
+          "answer": "C"
+        },
+        "Q4": {
+          "question": "If the sterile male mosquitoes were never released, which statement describes the likely outcome?",
+          "options": {
+            "A": "The reproduction cycle would still be interrupted, but residents would stop seeing more mosquitoes, since only one of the two outcomes depends on mosquitoes being released",
+            "B": "The sterile insect technique program would likely not have been launched, since the visible effects on the mosquito population are what justified and sustained the program's continuation",
+            "C": "The reproduction cycle would not be interrupted and residents would not see more mosquitoes, though the sterile insect technique program would likely still have been launched",
+            "D": "The reproduction cycle would still be interrupted and residents would still see more mosquitoes, since both stem directly from the sterile insect technique program regardless of mosquitoes being released"
+          },
+          "answer": "C"
+        },
+        "Q5": {
+          "question": "Which statement describes an accurate relationship?",
+          "options": {
+            "A": "Residents temporarily seeing more mosquitoes has an influence on mosquitoes being released, as the release happened partly because residents were already noticing more mosquitoes",
+            "B": "The reproduction cycle being interrupted has an influence on residents temporarily seeing more mosquitoes",
+            "C": "Mosquitoes being released mainly causes the reproduction cycle to be interrupted",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        }
+      },
+      "nodes": {
+        "A": "The Sacramento-Yolo District launching its sterile insect technique program",
+        "B": "144,000 sterile male mosquitoes being released in Rosemont",
+        "C": "The invasive Aedes aegypti reproduction cycle being interrupted",
+        "D": "Residents temporarily seeing more mosquitoes in the neighborhood"
+      }
+    },
+    {
+      "contextId": "divchain_03",
+      "dagType": "divchain",
+      "dag": [
+        "A -> B",
+        "B -> C",
+        "B -> D"
+      ],
+      "passage": "T cells surrounding the dendritic cells in the experiment multiplied less than they otherwise would have. The same T cells produced fewer of the signaling molecules needed to mount an effective immune response. Researchers had engineered those dendritic cells to lack the creatine transporter, preventing them from absorbing creatine. By the time the T cells were measured, the dendritic cells had survived less effectively and become significantly less active, according to the researchers.",
+      "questions": {
+        "Q1": {
+          "question": "Which event was the most essential to this scenario as a whole, and to other possible events occurring?",
+          "options": {
+            "A": "Dendritic cells being engineered to lack the creatine transporter",
+            "B": "Dendritic cells surviving less effectively and becoming less active, undermining their capacity to activate the surrounding immune response",
+            "C": "T cells producing fewer signaling molecules needed to mount an effective immune response",
+            "D": "T cells multiplying less near the creatine-deficient dendritic cells, slowing the growth of the responding immune population"
+          },
+          "answer": "A"
+        },
+        "Q2": {
+          "question": "If T cells had never produced fewer signaling molecules, what describes the likely outcome regarding T cells multiplying less?",
+          "options": {
+            "A": "T cells would likely multiply normally, since producing fewer signaling molecules was what limited their capacity to proliferate further",
+            "B": "T cells would likely still multiply less, since that effect stemmed from the dendritic cells surviving less effectively broadly, not from signaling molecule output specifically",
+            "C": "The dendritic cells would also not have survived less effectively, since reduced signaling molecule output was the direct trigger for their reduced activity",
+            "D": "T cells would likely still multiply less, but only because the creatine transporter deficiency directly caused that effect, independent of the dendritic cells' reduced activity"
+          },
+          "answer": "B"
+        },
+        "Q3": {
+          "question": "Which statement is false given the context?",
+          "options": {
+            "A": "The creatine transporter deficiency indirectly leads to dendritic cells surviving less effectively, which leads to T cells multiplying less",
+            "B": "T cells multiplying less and T cells producing fewer signaling molecules seem related",
+            "C": "The creatine transporter deficiency leads to dendritic cells surviving less effectively, which doesn't lead to only T cells producing fewer signaling molecules",
+            "D": "None of the above"
+          },
+          "answer": "A"
+        },
+        "Q4": {
+          "question": "If dendritic cells had not survived less effectively or become less active, which statement describes the likely outcome?",
+          "options": {
+            "A": "T cells would still multiply less, but would stop producing fewer signaling molecules, since only one of the two outcomes depends on the dendritic cells' reduced survival and activity",
+            "B": "The dendritic cells would likely not have been engineered to lack the creatine transporter, since their reduced survival and activity are what confirmed the transporter's role and justified the experiment's continuation",
+            "C": "T cells would still multiply less and still produce fewer signaling molecules, since both stem directly from the creatine transporter deficiency regardless of dendritic cell survival",
+            "D": "T cells would not multiply less and would not produce fewer signaling molecules, though the dendritic cells would likely still have been engineered to lack the creatine transporter"
+          },
+          "answer": "D"
+        },
+        "Q5": {
+          "question": "Which statement describes an accurate relationship?",
+          "options": {
+            "A": "T cells multiplying less has an influence on T cells producing fewer signaling molecules",
+            "B": "T cells producing fewer signaling molecules has an influence on dendritic cells surviving less effectively, as their reduced survival happened partly because signaling molecule output was already low",
+            "C": "Dendritic cells surviving less effectively mainly causes T cells to multiply less",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        }
+      },
+      "nodes": {
+        "A": "Dendritic cells being engineered to lack the creatine transporter",
+        "B": "Dendritic cells surviving less effectively and becoming less active",
+        "C": "T cells multiplying less",
+        "D": "T cells producing fewer signaling molecules"
+      }
+    },
+    {
+      "contextId": "divchain_04",
+      "dagType": "divchain",
+      "dag": [
+        "A -> B",
+        "B -> C",
+        "B -> D"
+      ],
+      "passage": "Micron Technology and Advanced Micro Devices have received near-perfect Strong Buy ratings supported by high growth marks. Nearly 60% of S&P 500 technology stocks had by then fallen into bear market territory, trading at least 20% below their 52-week highs. Analyst ratings across the sector grew sharply divided in the stretch that followed, with some stocks identified as having stronger potential than others. Major technology names including NVIDIA, Apple, and Microsoft sit on the other side of that divide, with Hold ratings and scores clustered in the mid-range.",
+      "questions": {
+        "Q1": {
+          "question": "Which event was the most essential to this scenario as a whole, and to other possible events occurring?",
+          "options": {
+            "A": "Micron and AMD receiving near-perfect Strong Buy ratings, driven by high growth marks",
+            "B": "A sharp divide emerging in analyst ratings across the tech sector, separating stronger performers from the rest",
+            "C": "Major technology names like NVIDIA, Apple, and Microsoft being rated Hold, with scores clustered in the mid-range",
+            "D": "Nearly 60% of S&P 500 technology stocks entering bear market territory"
+          },
+          "answer": "D"
+        },
+        "Q2": {
+          "question": "If major names like NVIDIA, Apple, and Microsoft had never been rated Hold, what describes the likely outcome regarding Micron and AMD receiving Strong Buy ratings?",
+          "options": {
+            "A": "Micron and AMD would likely still have received Strong Buy ratings, but only because the bear market conditions directly caused that outcome, independent of the sharp divide in ratings",
+            "B": "The sharp divide in analyst ratings would also not have emerged, since the Hold ratings on major names were the direct trigger for that divide",
+            "C": "Micron and AMD would likely not have received Strong Buy ratings, since the Hold ratings on larger names were what freed up analyst attention to favor smaller growth stocks",
+            "D": "Micron and AMD would likely still have received Strong Buy ratings, since that outcome stemmed from the sharp divide in ratings broadly, not from how the larger names were rated specifically"
+          },
+          "answer": "D"
+        },
+        "Q3": {
+          "question": "Which statement is false given the context?",
+          "options": {
+            "A": "The bear market conditions lead to a sharp divide in analyst ratings, which doesn't lead to only major names like NVIDIA, Apple, and Microsoft being rated Hold",
+            "B": "Micron and AMD receiving Strong Buy ratings and major names being rated Hold seem related",
+            "C": "The bear market conditions indirectly lead to a sharp divide emerging in analyst ratings, which leads to Micron and AMD receiving Strong Buy ratings",
+            "D": "None of the above"
+          },
+          "answer": "C"
+        },
+        "Q4": {
+          "question": "If a sharp divide in analyst ratings had never emerged across the tech sector, which statement describes the likely outcome?",
+          "options": {
+            "A": "Micron and AMD would still receive Strong Buy ratings and major names would still be rated Hold, since both stem directly from the bear market conditions regardless of any divide in ratings",
+            "B": "Micron and AMD would still receive Strong Buy ratings, but major names would stop being rated Hold, since only one of the two outcomes depends on a divide emerging in analyst ratings",
+            "C": "Tech stocks would likely not have entered bear market territory, since the divided ratings are what confirmed and reinforced the sector's bearish conditions",
+            "D": "Micron and AMD would not receive Strong Buy ratings and major names would not be rated Hold, though nearly 60% of tech stocks would likely still have entered bear market territory"
+          },
+          "answer": "D"
+        },
+        "Q5": {
+          "question": "Which statement describes an accurate relationship?",
+          "options": {
+            "A": "Micron and AMD receiving Strong Buy ratings has an influence on major names being rated Hold",
+            "B": "A sharp divide in analyst ratings mainly causes Micron and AMD to receive Strong Buy ratings",
+            "C": "Major names being rated Hold has an influence on a sharp divide emerging in analyst ratings, as the divide emerged partly because major names were already rated Hold",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        }
+      },
+      "nodes": {
+        "A": "Nearly 60% of S&P 500 technology stocks entering bear market territory",
+        "B": "A sharp divide emerging in analyst ratings across the tech sector",
+        "C": "Micron and AMD receiving near-perfect Strong Buy ratings",
+        "D": "Major names like NVIDIA, Apple, and Microsoft being rated Hold"
+      }
+    },
+    {
+      "contextId": "convchain_01",
+      "dagType": "convchain",
+      "dag": [
+        "A -> C",
+        "B -> C",
+        "C -> D"
+      ],
+      "passage": "Years of budget cuts had left the FDA significantly understaffed and unable to conduct thorough food safety inspections. The Michigan Department of Health and Human Services now runs a dedicated outbreak tracking webpage for cyclosporiasis, put up as the crisis mounted. Fresh produce fields across the US had spent that same period struggling to maintain adequate sanitation facilities, field toilets and washing stations among them. Cases of the parasite rose sharply across 31 states before the page went live, with Michigan, where 40 to 50 cases is a normal year, carrying the heaviest share.",
+      "questions": {
+        "Q1": {
+          "question": "Looking at how this situation came together, which of the following best captures what was ultimately behind it all?",
+          "options": {
+            "A": "Lack of sanitation in produce fields and the FDA being understaffed together",
+            "B": "The FDA being understaffed alone",
+            "C": "Lack of sanitation in produce fields alone",
+            "D": "The rapid rise in cyclosporiasis cases, since it's the last development before MDHHS activated its tracking webpage"
+          },
+          "answer": "A"
+        },
+        "Q2": {
+          "question": "Which event is directly tied to the most other events in this account?",
+          "options": {
+            "A": "The FDA being understaffed",
+            "B": "Lack of sanitation in produce fields",
+            "C": "MDHHS activating its outbreak tracking webpage",
+            "D": "The rapid rise in cyclosporiasis cases"
+          },
+          "answer": "D"
+        },
+        "Q3": {
+          "question": "Which statement most accurately describes the relationship between lack of sanitation in produce fields and FDA understaffing?",
+          "options": {
+            "A": "Lack of sanitation in produce fields and FDA understaffing are entirely unrelated, since neither directly causes the other",
+            "B": "Both eventually converge on MDHHS activating its outbreak tracking webpage in varying manners",
+            "C": "Lack of sanitation in produce fields and FDA understaffing may appear related due to some other unstated event that influenced both",
+            "D": "The perception of lack of sanitation in produce fields and FDA understaffing's relationship may depend on more information about other events in the account"
+          },
+          "answer": "D"
+        },
+        "Q4": {
+          "question": "Which statement is most accurate?",
+          "options": {
+            "A": "If lack of sanitation in produce fields is removed, FDA understaffing would never be influenced, because the two aren't actually causally related",
+            "B": "It is impossible to know, because lack of sanitation in produce fields and FDA understaffing aren't in a causal relationship and are completely independent",
+            "C": "If lack of sanitation in produce fields is removed, FDA understaffing would likely be influenced, because one variable exerts an influence on the other, whether indirect or direct",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        },
+        "Q5": {
+          "question": "Which of the following statements accurately describes how the events in this account relate to one another?",
+          "options": {
+            "A": "FDA understaffing can influence MDHHS activating its outbreak tracking webpage even though it neither directly nor indirectly causes that outcome.",
+            "B": "Lack of sanitation in produce fields can influence MDHHS activating its outbreak tracking webpage even though it neither directly nor indirectly causes that outcome.",
+            "C": "Lack of sanitation in produce fields and FDA understaffing can influence one another even though neither directly nor indirectly causes the other.",
+            "D": "None of the above"
+          },
+          "answer": "C"
+        }
+      },
+      "nodes": {
+        "A": "Lack of sanitation in produce fields",
+        "B": "The FDA being understaffed",
+        "C": "The rapid rise in cyclosporiasis cases",
+        "D": "MDHHS activating its outbreak tracking webpage"
+      }
+    },
+    {
+      "contextId": "convchain_02",
+      "dagType": "convchain",
+      "dag": [
+        "A -> C",
+        "B -> C",
+        "C -> D"
+      ],
+      "passage": "A Pakistan Navy frigate, the PNS Zulfiqar, and Pakistan Air Force aircraft are searching the Arabian Sea for K2 Airways Flight 1732. Minutes before contact with the aircraft was lost, the crew had radioed a navigation system problem. Pakistani officials had abruptly activated military and civilian emergency response teams by the time those assets deployed. Radar data covering those same final minutes showed the aircraft descending rapidly before all communication ceased.",
+      "questions": {
+        "Q1": {
+          "question": "Looking at how this situation came together, which of the following best captures what was ultimately behind it all?",
+          "options": {
+            "A": "The navigation system problem reported by the crew alone",
+            "B": "The rapid descent detected on radar alone",
+            "C": "Military and civilian authorities being activated, since it's the last development before search and rescue operations began",
+            "D": "Both the navigation system problem reported by the crew and the rapid descent detected on radar together"
+          },
+          "answer": "D"
+        },
+        "Q2": {
+          "question": "Which event is directly tied to the most other events in this account?",
+          "options": {
+            "A": "Search and rescue operations underway in the Arabian Sea",
+            "B": "Military and civilian authorities being activated",
+            "C": "The navigation system problem reported by the crew",
+            "D": "The rapid descent detected on radar"
+          },
+          "answer": "B"
+        },
+        "Q3": {
+          "question": "Which statement most accurately describes the relationship between the navigation system problem and the rapid descent detected on radar?",
+          "options": {
+            "A": "The navigation system problem and the rapid descent are entirely unrelated, since neither directly causes the other",
+            "B": "Both eventually converge on search and rescue operations getting underway in varying manners",
+            "C": "The perception of the navigation system problem and the rapid descent's relationship may depend on more information about other events in the account",
+            "D": "The navigation system problem and the rapid descent may appear related due to some other unstated event that influenced both"
+          },
+          "answer": "C"
+        },
+        "Q4": {
+          "question": "Which statement is most accurate?",
+          "options": {
+            "A": "It is impossible to know, because the navigation system problem and the rapid descent finding aren't in a causal relationship and are completely independent",
+            "B": "If the navigation system problem is removed, the rapid descent finding would likely be influenced, because one variable exerts an influence on the other, whether indirect or direct",
+            "C": "If the navigation system problem is removed, the rapid descent finding would never be influenced, because the two aren't actually causally related",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        },
+        "Q5": {
+          "question": "Which of the following statements accurately describes how the events in this account relate to one another?",
+          "options": {
+            "A": "The rapid descent detected on radar can influence search and rescue operations getting underway even though it neither directly nor indirectly causes that outcome.",
+            "B": "The navigation system problem reported by the crew and the rapid descent detected on radar can influence one another even though neither directly nor indirectly causes the other.",
+            "C": "The navigation system problem reported by the crew can influence search and rescue operations getting underway even though it neither directly nor indirectly causes that outcome.",
+            "D": "None of the above"
+          },
+          "answer": "B"
+        }
+      },
+      "nodes": {
+        "A": "The navigation system problem reported by the crew",
+        "B": "The rapid descent detected on radar",
+        "C": "Military and civilian authorities being activated",
+        "D": "Search and rescue operations underway in the Arabian Sea"
+      }
+    },
+    {
+      "contextId": "convchain_03",
+      "dagType": "convchain",
+      "dag": [
+        "A -> C",
+        "B -> C",
+        "C -> D"
+      ],
+      "passage": "Moscow banned all diesel exports effective through the end of July, in a move that caught many energy analysts off guard. A Ukrainian drone operation had hit oil infrastructure near the Port of St. Petersburg days before, bringing one of Russia's largest Baltic energy hubs into the campaign. Domestic fuel production was by then running roughly 20% below capacity, a shortage Russia reported grappling with. Ukrainian forces had also struck the Omsk facility, Russia's largest oil refinery, knocking its primary crude distillation units offline.",
+      "questions": {
+        "Q1": {
+          "question": "Looking at how this situation came together, which of the following best captures what was ultimately behind it all?",
+          "options": {
+            "A": "Russia facing a 20% shortfall in domestic fuel production, since it's the last development before the export ban",
+            "B": "Both the drone strike crippling the Omsk oil refinery and the strike targeting the St. Petersburg oil terminal together",
+            "C": "The drone strike targeting the St. Petersburg oil terminal alone",
+            "D": "The drone strike crippling the Omsk oil refinery alone"
+          },
+          "answer": "B"
+        },
+        "Q2": {
+          "question": "Which event is directly tied to the most other events in this account?",
+          "options": {
+            "A": "The drone strike targeting the St. Petersburg oil terminal",
+            "B": "Russia facing a 20% shortfall in domestic fuel production",
+            "C": "Russia banning all diesel exports",
+            "D": "The drone strike crippling the Omsk oil refinery"
+          },
+          "answer": "B"
+        },
+        "Q3": {
+          "question": "Which statement most accurately describes the relationship between the Omsk refinery strike and the St. Petersburg terminal strike?",
+          "options": {
+            "A": "The Omsk refinery strike and the St. Petersburg terminal strike are entirely unrelated, since neither directly causes the other",
+            "B": "Both eventually converge on Russia banning all diesel exports in varying manners",
+            "C": "The Omsk refinery strike and the St. Petersburg terminal strike may appear related due to some other unstated event that influenced both",
+            "D": "The perception of the Omsk refinery strike and the St. Petersburg terminal strike's relationship may depend on more information about other events in the account"
+          },
+          "answer": "D"
+        },
+        "Q4": {
+          "question": "Which statement is most accurate?",
+          "options": {
+            "A": "If the Omsk refinery strike is removed, the St. Petersburg terminal strike would never be influenced, because the two aren't actually causally related",
+            "B": "It is impossible to know, because the Omsk refinery strike and the St. Petersburg terminal strike aren't in a causal relationship and are completely independent",
+            "C": "If the Omsk refinery strike is removed, the St. Petersburg terminal strike would likely be influenced, because one variable exerts an influence on the other, whether indirect or direct",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        },
+        "Q5": {
+          "question": "Which of the following statements accurately describes how the events in this account relate to one another?",
+          "options": {
+            "A": "The drone strike on the Omsk oil refinery and the drone strike on the St. Petersburg oil terminal can influence one another even though neither directly nor indirectly causes the other.",
+            "B": "The drone strike on the St. Petersburg oil terminal can influence Russia banning all diesel exports even though it neither directly nor indirectly causes that outcome.",
+            "C": "The drone strike on the Omsk oil refinery can influence Russia banning all diesel exports even though it neither directly nor indirectly causes that outcome.",
+            "D": "None of the above"
+          },
+          "answer": "A"
+        }
+      },
+      "nodes": {
+        "A": "The drone strike crippling the Omsk oil refinery",
+        "B": "The drone strike targeting the St. Petersburg oil terminal",
+        "C": "Russia facing a 20% shortfall in domestic fuel production",
+        "D": "Russia banning all diesel exports"
+      }
+    },
+    {
+      "contextId": "convchain_04",
+      "dagType": "convchain",
+      "dag": [
+        "A -> C",
+        "B -> C",
+        "C -> D"
+      ],
+      "passage": "Rising RAM prices had pushed smartphone manufacturers to raise device prices significantly. Chinese brands including Oppo, Xiaomi, vivo and Honor had by then either exited Western flip foldable markets or never entered them at all. Samsung is now reported to be considering pausing or discontinuing its Flip8 series. The Western flip foldable market had grown increasingly uncertain and unsustainable in the run-up to that report.",
+      "questions": {
+        "Q1": {
+          "question": "Looking at how this situation came together, which of the following best captures what was ultimately behind it all?",
+          "options": {
+            "A": "Chinese brands exiting or never entering the Western flip foldable market alone",
+            "B": "The Western flip foldable market becoming unsustainable, since it's the last development before Samsung's decision",
+            "C": "Both rising RAM prices forcing higher smartphone costs and Chinese brands exiting or never entering the Western flip foldable market together",
+            "D": "Rising RAM prices forcing manufacturers to charge more for smartphones alone"
+          },
+          "answer": "C"
+        },
+        "Q2": {
+          "question": "Which event is directly tied to the most other events in this account?",
+          "options": {
+            "A": "The Western flip foldable market becoming unsustainable",
+            "B": "Rising RAM prices forcing manufacturers to charge more",
+            "C": "Samsung potentially pausing or discontinuing its Flip8 series",
+            "D": "Chinese brands exiting or never entering the Western flip foldable market"
+          },
+          "answer": "A"
+        },
+        "Q3": {
+          "question": "Which statement most accurately describes the relationship between rising RAM prices and Chinese brands exiting the market?",
+          "options": {
+            "A": "The perception of rising RAM prices and Chinese brands exiting the market's relationship may depend on more information about other events in the account",
+            "B": "Rising RAM prices and Chinese brands exiting the market may appear related due to some other unstated event that influenced both",
+            "C": "Rising RAM prices and Chinese brands exiting the market are entirely unrelated, since neither directly causes the other",
+            "D": "Both eventually converge on Samsung potentially pausing or discontinuing its Flip8 series in varying manners"
+          },
+          "answer": "A"
+        },
+        "Q4": {
+          "question": "Which statement is most accurate?",
+          "options": {
+            "A": "If rising RAM prices is removed, Chinese brands exiting the market would never be influenced, because the two aren't actually causally related",
+            "B": "If rising RAM prices is removed, Chinese brands exiting the market would likely be influenced, because one variable exerts an influence on the other, whether indirect or direct",
+            "C": "It is impossible to know, because rising RAM prices and Chinese brands exiting the market aren't in a causal relationship and are completely independent",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        },
+        "Q5": {
+          "question": "Which of the following statements accurately describes how the events in this account relate to one another?",
+          "options": {
+            "A": "Chinese brands exiting or never entering the Western flip foldable market can influence Samsung potentially pausing or discontinuing its Flip8 series even though it neither directly nor indirectly causes that outcome.",
+            "B": "Rising RAM prices can influence Samsung potentially pausing or discontinuing its Flip8 series even though it neither directly nor indirectly causes that outcome.",
+            "C": "Rising RAM prices and Chinese brands exiting or never entering the Western flip foldable market can influence one another even though neither directly nor indirectly causes the other.",
+            "D": "None of the above"
+          },
+          "answer": "C"
+        }
+      },
+      "nodes": {
+        "A": "Rising RAM prices forcing manufacturers to charge more",
+        "B": "Chinese brands exiting or never entering the Western flip foldable market",
+        "C": "The Western flip foldable market becoming unsustainable",
+        "D": "Samsung potentially pausing or discontinuing its Flip8 series"
+      }
+    },
+    {
+      "contextId": "asym_divchain_01",
+      "dagType": "asymmetric_divchain",
+      "dag": [
+        "A -> B",
+        "A -> C",
+        "C -> D"
+      ],
+      "passage": "Long-held notions about simultaneous tail shortening and pygostyle formation have been called into question. Analysis of limb bones suggested Zhengheornis buyu was not clearly adapted to either tree-dwelling or ground-dwelling life, unlike other Jurassic birds found nearby. Paleontologists had discovered and analyzed the holotype specimen of the newly identified ancient bird species, which dates to the Jurassic period. Their report noted that the Buyu tail contained just 15 vertebrae, far fewer than related species, yet these remained entirely separate rather than fused into a pygostyle.",
+      "questions": {
+        "Q1": {
+          "question": "Which event was the most essential to this scenario as a whole, and to other possible events occurring?",
+          "options": {
+            "A": "Challenges to the notion of simultaneous tail shortening and pygostyle formation, since it's the detail most people would point to first if asked what this account was really about",
+            "B": "15 vertebrae identified as shortened but entirely unfused without pygostyle, since removing it would undercut the rest of the account more severely than removing anything else would",
+            "C": "Holotype specimen of Zhengheornis buyu discovered and analyzed",
+            "D": "Zhengheornis buyu identified as not adapted to tree or ground dwelling, since on its own it plausibly accounts for everything else described, without requiring anything to have happened first"
+          },
+          "answer": "C"
+        },
+        "Q2": {
+          "question": "If the challenge to notions of simultaneous tail shortening and pygostyle formation had never occurred, which statement describes the likeliest outcome regarding Zhengheornis buyu being identified as not adapted to tree or ground dwelling?",
+          "options": {
+            "A": "The unadapted classification would likely not change, as both are unrelated in isolation and caused by the specimen discovery",
+            "B": "The unadapted classification would likely decrease in likelihood, since knowing about one event can help make sense of the other, since both are directly confounded by the specimen discovery.",
+            "C": "Knowing a change in the challenge to prior notions doesn't help us understand the unadapted classification, as both seem directly related but don't actually influence each other or cause one another, rather another event causes both",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        },
+        "Q3": {
+          "question": "Which statement is most accurate?",
+          "options": {
+            "A": "The unadapted classification and the vertebrae finding play much the same role in this account, since both come about as a direct result of the specimen being discovered and analyzed",
+            "B": "The specimen discovery indirectly leads to the challenge of prior notions by multiple means",
+            "C": "Both the unadapted classification and the vertebrae finding play a further role in shaping what happens afterward",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        },
+        "Q4": {
+          "question": "Which statement most accurately describes the relationship between the unadapted classification and the challenge to prior notions?",
+          "options": {
+            "A": "The unadapted classification and the challenge to prior notions directly seem related",
+            "B": "The unadapted classification indirectly influences the challenge to prior notions",
+            "C": "They share no connection at all, direct or otherwise",
+            "D": "Both are influenced by the same cause, in the same manner"
+          },
+          "answer": "A"
+        },
+        "Q5": {
+          "question": "Which single event is directly tied to more of the other events than any other?",
+          "options": {
+            "A": "The challenge to prior notions, since it's influenced by both the specimen discovery and the vertebrae finding",
+            "B": "The vertebrae finding, since it's influenced by the specimen discovery but also influences something else in turn",
+            "C": "The specimen discovery, since it's the ultimate source everything else in the scenario traces back to",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        }
+      },
+      "nodes": {
+        "A": "Holotype specimen of Zhengheornis buyu discovered and analyzed",
+        "B": "Zhengheornis buyu identified as not adapted to tree or ground dwelling",
+        "C": "15 vertebrae identified as shortened but entirely unfused without pygostyle",
+        "D": "Challenges to the notion of simultaneous tail shortening and pygostyle formation"
+      }
+    },
+    {
+      "contextId": "asym_divchain_02",
+      "dagType": "asymmetric_divchain",
+      "dag": [
+        "A -> B",
+        "A -> C",
+        "C -> D"
+      ],
+      "passage": "Remdesivir, an antiviral drug previously tested against other Ebola strains, was repurposed and introduced into testing against Bundibugyo. The Biomedical Advanced Research and Development Authority has funded and donated doses of MBP-134 for an urgent clinical trial. The Bundibugyo outbreak had presented a critical challenge from the start, with no existing treatments developed for this rarer strain. Researchers had identified MBP-134, a monoclonal antibody cocktail, as a potential treatment once the outbreak was under way, based on promising laboratory data suggesting it could work against Bundibugyo.",
+      "questions": {
+        "Q1": {
+          "question": "Which event was the most essential to this scenario as a whole, and to other possible events occurring?",
+          "options": {
+            "A": "The Bundibugyo outbreak with no existing treatments",
+            "B": "BARDA funding and donating MBP-134 doses for clinical trial, since it's the detail most people would point to first if asked what this account was really about",
+            "C": "Remdesivir being repurposed and tested, since on its own it plausibly accounts for everything else described, without requiring anything to have happened first",
+            "D": "MBP-134 being identified as a potential treatment, since removing it would undercut the rest of the account more severely than removing anything else would"
+          },
+          "answer": "A"
+        },
+        "Q2": {
+          "question": "If BARDA funding and donating MBP-134 doses for clinical trial had never occurred, which statement describes the likeliest outcome regarding remdesivir being repurposed and tested?",
+          "options": {
+            "A": "Remdesivir being repurposed and tested would likely decrease in likelihood, since knowing about one event can help make sense of the other, since both are directly confounded by the outbreak.",
+            "B": "Knowing a change in BARDA's funding decision doesn't help us understand remdesivir's repurposing, as both seem directly related but don't actually influence each other or cause one another, rather another event causes both",
+            "C": "Remdesivir being repurposed and tested would likely not change, as both are unrelated in isolation and caused by the outbreak",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        },
+        "Q3": {
+          "question": "Which statement is most accurate?",
+          "options": {
+            "A": "The outbreak indirectly leads to BARDA's funding decision by multiple means",
+            "B": "Remdesivir's repurposing and the MBP-134 identification play much the same role in this account, since both come about as a direct result of the outbreak occurring",
+            "C": "Both remdesivir's repurposing and the MBP-134 identification play a further role in shaping what happens afterward",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        },
+        "Q4": {
+          "question": "Which statement most accurately describes the relationship between remdesivir's repurposing and BARDA's funding decision?",
+          "options": {
+            "A": "Remdesivir's repurposing indirectly influences BARDA's funding decision",
+            "B": "They share no connection at all, direct or otherwise",
+            "C": "Both are influenced by the same cause, in the same manner",
+            "D": "Remdesivir's repurposing and BARDA's funding decision directly seem related"
+          },
+          "answer": "D"
+        },
+        "Q5": {
+          "question": "Which single event is directly tied to more of the other events than any other?",
+          "options": {
+            "A": "The outbreak, since it's the ultimate source everything else in the scenario traces back to",
+            "B": "The MBP-134 identification, since it's influenced by the outbreak but also influences something else in turn",
+            "C": "BARDA's funding decision, since it's influenced by both the outbreak and the MBP-134 identification",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        }
+      },
+      "nodes": {
+        "A": "The Bundibugyo outbreak with no existing treatments",
+        "B": "Remdesivir being repurposed and tested",
+        "C": "MBP-134 being identified as a potential treatment",
+        "D": "BARDA funding and donating MBP-134 doses for clinical trial"
+      }
+    },
+    {
+      "contextId": "asym_divchain_03",
+      "dagType": "asymmetric_divchain",
+      "dag": [
+        "A -> B",
+        "A -> C",
+        "C -> D"
+      ],
+      "passage": "Microsoft released security updates for its Malware Protection Engine addressing a Defender vulnerability known as RoguePlanet. Security researcher Chaotic Eclipse had publicly disclosed the flaw, describing it as a privilege escalation issue. News reporters later realized RoguePlanet was the fourth Defender vulnerability the same researcher had publicly disclosed. Before those updates shipped, testing by a larger population had confirmed the exploit worked on fully updated Windows systems regardless of whether real-time protection was enabled.",
+      "questions": {
+        "Q1": {
+          "question": "Which event was the most essential to this scenario as a whole, and to other possible events occurring?",
+          "options": {
+            "A": "Chaotic Eclipse publicly disclosing the RoguePlanet vulnerability",
+            "B": "RoguePlanet being identified as the fourth Defender vulnerability disclosed by the same researcher, since on its own it plausibly accounts for everything else described, without requiring anything to have happened first",
+            "C": "Microsoft releasing security updates for its Malware Protection Engine, since it's the detail most people would point to first if asked what this account was really about",
+            "D": "The vulnerability being found to work on fully updated Windows systems regardless of real-time protection, since removing it would undercut the rest of the account more severely than removing anything else would"
+          },
+          "answer": "A"
+        },
+        "Q2": {
+          "question": "If Microsoft releasing security updates for its Malware Protection Engine had never occurred, which statement describes the likeliest outcome regarding RoguePlanet being identified as the fourth Defender vulnerability disclosed by the same researcher?",
+          "options": {
+            "A": "RoguePlanet being identified as the fourth vulnerability would likely decrease in likelihood, since knowing about one event can help make sense of the other, since both are directly confounded by the disclosure.",
+            "B": "Knowing a change in Microsoft's security updates doesn't help us understand the fourth-vulnerability identification, as both seem directly related but don't actually influence each other or cause one another, rather another event causes both",
+            "C": "RoguePlanet being identified as the fourth vulnerability would likely not change, as both are unrelated in isolation and caused by the disclosure",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        },
+        "Q3": {
+          "question": "Which statement is most accurate?",
+          "options": {
+            "A": "The fourth-vulnerability identification and the Windows-systems finding play much the same role in this account, since both come about as a direct result of the disclosure occurring",
+            "B": "The disclosure indirectly leads to Microsoft's security updates by multiple means",
+            "C": "Both the fourth-vulnerability identification and the Windows-systems finding play a further role in shaping what happens afterward",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        },
+        "Q4": {
+          "question": "Which statement most accurately describes the relationship between the fourth-vulnerability identification and Microsoft's security updates?",
+          "options": {
+            "A": "The fourth-vulnerability identification indirectly influences Microsoft's security updates",
+            "B": "They share no connection at all, direct or otherwise",
+            "C": "Both are influenced by the same cause, in the same manner",
+            "D": "The fourth-vulnerability identification and Microsoft's security updates directly seem related"
+          },
+          "answer": "D"
+        },
+        "Q5": {
+          "question": "Which single event is directly tied to more of the other events than any other?",
+          "options": {
+            "A": "Microsoft's security updates, since they're influenced by both the disclosure and the Windows-systems finding",
+            "B": "The disclosure, since it's the ultimate source everything else in the scenario traces back to",
+            "C": "The Windows-systems finding, since it's influenced by the disclosure but also influences something else in turn",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        }
+      },
+      "nodes": {
+        "A": "Chaotic Eclipse publicly disclosing the RoguePlanet vulnerability",
+        "B": "RoguePlanet being identified as the fourth Defender vulnerability disclosed by the same researcher",
+        "C": "The vulnerability being found to work on fully updated Windows systems regardless of real-time protection",
+        "D": "Microsoft releasing security updates for its Malware Protection Engine"
+      }
+    },
+    {
+      "contextId": "asym_divchain_04",
+      "dagType": "asymmetric_divchain",
+      "dag": [
+        "A -> B",
+        "A -> C",
+        "C -> D"
+      ],
+      "passage": "Erling Haaland has signed advertising deals with the herbal tea brand Walovi and the home appliance manufacturer Midea, both major Chinese brands. Within just over a month of launching his official Douyin account, the Norwegian footballer had amassed 5.8 million followers, more than the population of Norway. His exaggerated facial expressions and funny moments on the pitch had become wildly popular on Chinese social media before that account ever launched, with fans creating viral memes comparing him to cartoon characters. Fans have been buying Haaland-style hairbands modeled on that meme imagery on Taobao, turning them into must-have fashion accessories.",
+      "questions": {
+        "Q1": {
+          "question": "Which event was the most essential to this scenario as a whole, and to other possible events occurring?",
+          "options": {
+            "A": "Haaland-style hairbands becoming must-have fashion accessories on Taobao, since on its own it plausibly accounts for everything else described, without requiring anything to have happened first",
+            "B": "Haaland's viral memes and funny moments going viral on Chinese social media",
+            "C": "Haaland amassing 5.8 million Douyin followers in one month, since removing it would undercut the rest of the account more severely than removing anything else would",
+            "D": "Haaland landing major business deals with Walovi and Midea, since it's the detail most people would point to first if asked what this account was really about"
+          },
+          "answer": "B"
+        },
+        "Q2": {
+          "question": "If Haaland landing major business deals with Walovi and Midea had never occurred, which statement describes the likeliest outcome regarding Haaland-style hairbands becoming must-have fashion accessories on Taobao?",
+          "options": {
+            "A": "Knowing a change in the business deals doesn't help us understand the hairband trend, as both seem directly related but don't actually influence each other or cause one another, rather another event causes both",
+            "B": "The hairbands becoming must-have accessories would likely not change, as both are unrelated in isolation and caused by the viral meme content",
+            "C": "The hairbands becoming must-have accessories would likely decrease in likelihood, since knowing about one event can help make sense of the other, since both are directly confounded by the viral meme content.",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        },
+        "Q3": {
+          "question": "Which statement is most accurate?",
+          "options": {
+            "A": "The hairband trend and the follower surge play much the same role in this account, since both come about as a direct result of the meme content going viral",
+            "B": "Both the hairband trend and the follower surge play a further role in shaping what happens afterward",
+            "C": "The viral meme content indirectly leads to the business deals by multiple means",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        },
+        "Q4": {
+          "question": "Which statement most accurately describes the relationship between the hairband trend and the business deals?",
+          "options": {
+            "A": "The hairband trend and the business deals directly seem related",
+            "B": "Both are influenced by the same cause, in the same manner",
+            "C": "The hairband trend indirectly influences the business deals",
+            "D": "They share no connection at all, direct or otherwise"
+          },
+          "answer": "A"
+        },
+        "Q5": {
+          "question": "Which single event is directly tied to more of the other events than any other?",
+          "options": {
+            "A": "The business deals, since they're influenced by both the viral meme content and the follower surge",
+            "B": "The follower surge, since it's influenced by the viral meme content but also influences something else in turn",
+            "C": "The viral meme content, since it's the ultimate source everything else in the scenario traces back to",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        }
+      },
+      "nodes": {
+        "A": "Haaland's viral memes and funny moments going viral on Chinese social media",
+        "B": "Haaland-style hairbands becoming must-have fashion accessories on Taobao",
+        "C": "Haaland amassing 5.8 million Douyin followers in one month",
+        "D": "Haaland landing major business deals with Walovi and Midea"
+      }
+    },
+    {
+      "contextId": "asym_convchain_01",
+      "dagType": "asymmetric_convchain",
+      "dag": [
+        "A -> B",
+        "B -> D",
+        "C -> D"
+      ],
+      "passage": "Firms have begun quietly acknowledging and hypothesizing that running AI at scale may be costing more than simply paying human workers to do the same tasks. AI firms had switched from subscription fees to token-based billing before those admissions, charging customers each time a model was queried, which made the costs abruptly visible to the parent companies. OpenAI and Anthropic had also been generating revenues far below their compute expenditures, remaining relatively unprofitable. Major tech companies had committed hundreds of billions of dollars to AI infrastructure in the run-up to those losses, with the four largest expecting to spend over $750 billion in a single year alone.",
+      "questions": {
+        "Q1": {
+          "question": "Which event was most essential to this scenario as a whole, and to other possible events occurring?",
+          "options": {
+            "A": "Extreme AI capital investment",
+            "B": "Both extreme AI capital investment and token-based billing making costs visible, as they are both roots",
+            "C": "Token-based billing making AI costs suddenly visible to corporations",
+            "D": "AI firms generating revenues far below their compute expenditures"
+          },
+          "answer": "A"
+        },
+        "Q2": {
+          "question": "If extreme AI capital investment had never occurred, what would be the most likely outcome?",
+          "options": {
+            "A": "Token-based billing would be unchanged, as extreme AI capital investment and token-based billing are not directly participating in a causal relationship",
+            "B": "Token-based billing's likelihood could change, despite extreme AI capital investment and token-based billing not being directly related in a causal relationship",
+            "C": "AI firms generating revenues far below compute expenditures would almost certainly have occurred as well, since it's the only other event capable of accounting for it",
+            "D": "Firms realizing AI costs exceed worker costs would not occur, since it relied on extreme AI capital investment"
+          },
+          "answer": "B"
+        },
+        "Q3": {
+          "question": "Which single event is directly tied to the most other events in this scenario?",
+          "options": {
+            "A": "Firms realizing AI costs exceed worker costs, since it's the point every other event in the scenario ultimately feeds into",
+            "B": "AI firms generating revenues far below their compute expenditures, since it directly influences firms realizing AI costs exceed worker costs and gets influenced by extreme AI capital investment in turn",
+            "C": "Extreme AI capital investment, since it's the ultimate source everything else in the scenario traces back to",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        },
+        "Q4": {
+          "question": "Which statement is most accurate?",
+          "options": {
+            "A": "Extreme AI capital investment leads to firms realizing AI costs exceed worker costs by multiple means",
+            "B": "Extreme AI capital investment and AI firms generating revenues far below compute expenditures indirectly influence firms realizing AI costs exceed worker costs",
+            "C": "AI firms generating revenues far below compute expenditures and token-based billing play much the same role in this account, since both directly cause firms realizing AI costs exceed worker costs",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        },
+        "Q5": {
+          "question": "Which statement most accurately describes the relationship between extreme AI capital investment and token-based billing making costs visible?",
+          "options": {
+            "A": "Extreme AI capital investment and token-based billing may appear related due to some other unstated event that influenced both",
+            "B": "Extreme AI capital investment and token-based billing are entirely unrelated, since neither directly causes the other",
+            "C": "The perception of extreme AI capital investment and token-based billing's relationship may depend on more information about other events in the account",
+            "D": "Both converge on firms realizing AI costs exceed worker costs in the same manner"
+          },
+          "answer": "C"
+        }
+      },
+      "nodes": {
+        "A": "Extreme AI capital investment",
+        "B": "AI firms generating revenues far below their compute expenditures",
+        "C": "Token-based billing making AI costs suddenly visible to corporations",
+        "D": "Firms realizing AI costs exceed worker costs"
+      }
+    },
+    {
+      "contextId": "asym_convchain_02",
+      "dagType": "asymmetric_convchain",
+      "dag": [
+        "A -> B",
+        "B -> D",
+        "C -> D"
+      ],
+      "passage": "US forces carried out additional strikes on Iran's southern coastal and eastern provinces starting July 8th. Iranian Supreme Leader Ayatollah Ali Khamenei had been a casualty of US military action on February 28, during the opening days of the US-Iran war. Iranian armed forces launched coordinated attacks on US military infrastructure across Gulf states including Kuwait, Qatar and Bahrain on July 9th and July 12th. Mass funeral processions and rallies had swept Iran through the first days of March, with millions of mourners expressing grief and calls for revenge against the United States.",
+      "questions": {
+        "Q1": {
+          "question": "Which event was most essential to this scenario as a whole, and to other possible events occurring?",
+          "options": {
+            "A": "Both Khamenei's death and the US strikes on Iran's southern coastal and eastern provinces, as they are both roots",
+            "B": "US strikes on Iran's southern coastal and eastern provinces",
+            "C": "Khamenei dying as a casualty of the US airstrike on Iran on February 28",
+            "D": "The week of mass funeral processions and rallies fueling national grief and calls for revenge"
+          },
+          "answer": "C"
+        },
+        "Q2": {
+          "question": "If Khamenei had never died as a casualty of the US airstrike, what would be the most likely outcome?",
+          "options": {
+            "A": "The week of mass funeral processions and rallies would almost certainly have occurred as well, since it's the only other event capable of accounting for it",
+            "B": "The likelihood of US strikes on Iran's southern coastal and eastern provinces could change, despite Khamenei's death and those strikes not being directly related in a causal relationship",
+            "C": "Iranian armed forces launching attacks on US military infrastructure in Gulf states would not occur, since it relied on Khamenei's death",
+            "D": "US strikes on Iran's southern coastal and eastern provinces would be unchanged, as Khamenei's death and those strikes are not directly participating in a causal relationship"
+          },
+          "answer": "B"
+        },
+        "Q3": {
+          "question": "Which single event is directly tied to the most other events in this scenario?",
+          "options": {
+            "A": "The week of mass funeral processions and rallies, since it directly influences the Iranian attacks on Gulf states and gets influenced by Khamenei's death in turn",
+            "B": "Iranian armed forces launching attacks on US military infrastructure in Gulf states, since it's the point every other event in the scenario ultimately feeds into",
+            "C": "Khamenei's death, since it's the ultimate source everything else in the scenario traces back to",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        },
+        "Q4": {
+          "question": "Which statement is most accurate?",
+          "options": {
+            "A": "Khamenei's death and the week of mass funeral processions indirectly influence the Iranian attacks on Gulf states",
+            "B": "Khamenei's death leads to the Iranian attacks on Gulf states by multiple means",
+            "C": "The week of mass funeral processions and US strikes on Iran's southern coastal and eastern provinces play much the same role in this account, since both directly cause the Iranian attacks on Gulf states",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        },
+        "Q5": {
+          "question": "Which statement most accurately describes the relationship between Khamenei's death and the US strikes on Iran's southern coastal and eastern provinces?",
+          "options": {
+            "A": "The perception of Khamenei's death and the US strikes' relationship may depend on more information about other events in the account",
+            "B": "Khamenei's death and the US strikes are entirely unrelated, since neither directly causes the other",
+            "C": "Khamenei's death and the US strikes may appear related due to some other unstated event that influenced both",
+            "D": "Both converge on the Iranian attacks on Gulf states in the same manner"
+          },
+          "answer": "A"
+        }
+      },
+      "nodes": {
+        "A": "Khamenei dying as a casualty of the US airstrike on Iran on February 28",
+        "B": "The week of mass funeral processions and rallies fueling national grief and calls for revenge",
+        "C": "US strikes on Iran's southern coastal and eastern provinces",
+        "D": "Iranian armed forces launching attacks on US military infrastructure in Gulf states"
+      }
+    },
+    {
+      "contextId": "asym_convchain_03",
+      "dagType": "asymmetric_convchain",
+      "dag": [
+        "A -> B",
+        "B -> D",
+        "C -> D"
+      ],
+      "passage": "Sony upgraded the RX10 V's video capabilities to 4K 60fps 10-bit recording using the full sensor width with no pixel binning. A dedicated deep AI processor had gone into the body as well. The camera launched at $2,300, positioning it as one of the most expensive compact cameras on the market. Its autofocus system had been presented, ahead of that launch, as capable of detecting and tracking humans, animals, vehicles and insects with unprecedented precision.",
+      "questions": {
+        "Q1": {
+          "question": "Which event was most essential to this scenario as a whole, and to other possible events occurring?",
+          "options": {
+            "A": "Both Sony incorporating the deep AI processor and Sony upgrading to 4K 60fps 10-bit video, as they are both roots",
+            "B": "Advanced AI autofocus detecting humans, animals, vehicles, and insects",
+            "C": "Sony incorporating a separate deep AI processor",
+            "D": "Sony upgrading to 4K 60fps 10-bit video with full sensor width"
+          },
+          "answer": "C"
+        },
+        "Q2": {
+          "question": "If Sony had never incorporated a separate deep AI processor, what would be the most likely outcome?",
+          "options": {
+            "A": "Sony's 4K 60fps 10-bit video upgrade would be unchanged, as the AI processor and video upgrade are not directly participating in a causal relationship",
+            "B": "Sony pricing the RX10 V at $2,300 would not occur, since it relied on the deep AI processor",
+            "C": "The likelihood of Sony's 4K 60fps 10-bit video upgrade could change, despite the AI processor and video upgrade not being directly related in a causal relationship",
+            "D": "Advanced AI autofocus detecting humans, animals, vehicles, and insects would almost certainly have occurred as well, since it's the only other event capable of accounting for it"
+          },
+          "answer": "C"
+        },
+        "Q3": {
+          "question": "Which single event is directly tied to the most other events in this scenario?",
+          "options": {
+            "A": "Advanced AI autofocus detecting humans, animals, vehicles, and insects, since it directly influences Sony's $2,300 pricing decision and gets influenced by the deep AI processor in turn",
+            "B": "Sony pricing the RX10 V at $2,300, since it's the point every other event in the scenario ultimately feeds into",
+            "C": "Sony incorporating the deep AI processor, since it's the ultimate source everything else in the scenario traces back to",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        },
+        "Q4": {
+          "question": "Which statement is most accurate?",
+          "options": {
+            "A": "Sony incorporating the deep AI processor leads to Sony's $2,300 pricing decision by multiple means",
+            "B": "Sony incorporating the deep AI processor and advanced AI autofocus indirectly influence Sony's $2,300 pricing decision",
+            "C": "Advanced AI autofocus and the 4K 60fps 10-bit video upgrade play much the same role in this account, since both directly cause Sony's $2,300 pricing decision",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        },
+        "Q5": {
+          "question": "Which statement most accurately describes the relationship between Sony incorporating the deep AI processor and Sony upgrading to 4K 60fps 10-bit video?",
+          "options": {
+            "A": "The AI processor and video upgrade may appear related due to some other unstated event that influenced both",
+            "B": "Both converge on Sony's $2,300 pricing decision in the same manner",
+            "C": "The AI processor and video upgrade are entirely unrelated, since neither directly causes the other",
+            "D": "The perception of the AI processor and video upgrade's relationship may depend on more information about other events in the account"
+          },
+          "answer": "D"
+        }
+      },
+      "nodes": {
+        "A": "Sony incorporating a separate deep AI processor",
+        "B": "Advanced AI autofocus detecting humans, animals, vehicles, and insects",
+        "C": "Sony upgrading to 4K 60fps 10-bit video with full sensor width",
+        "D": "Sony pricing the RX10 V at $2,300"
+      }
+    },
+    {
+      "contextId": "asym_convchain_04",
+      "dagType": "asymmetric_convchain",
+      "dag": [
+        "A -> B",
+        "B -> D",
+        "C -> D"
+      ],
+      "passage": "Existing home sales fell 2.4% in June compared to the previous month, with buyers remaining sensitive to affordability conditions. The median existing home sales price had hit a record high of $440,600 for that same month. The US-Iran war had triggered a significant inflation spike across the US economy well before that, unsettling bond markets and investor confidence. The average 30-year fixed mortgage rate stayed stubbornly elevated at around 6.49% in the months that followed, still near the highest levels of the year when June's sales figures came in.",
+      "questions": {
+        "Q1": {
+          "question": "Which event was most essential to this scenario as a whole, and to other possible events occurring?",
+          "options": {
+            "A": "The US-Iran war-induced inflation spike",
+            "B": "The median existing home sales price hitting a record high of $440,600",
+            "C": "Mortgage rates remaining stubbornly high at 6.49%",
+            "D": "Both the inflation spike and the record median home sales price, as they are both roots"
+          },
+          "answer": "A"
+        },
+        "Q2": {
+          "question": "If the US-Iran war-induced inflation spike had never occurred, what would be the most likely outcome?",
+          "options": {
+            "A": "Existing home sales falling 2.4% in June would not occur, since it relied on the inflation spike",
+            "B": "The median existing home sales price hitting a record high would be unchanged, as the inflation spike and the record price are not directly participating in a causal relationship",
+            "C": "The likelihood of the median existing home sales price hitting a record high could change, despite the inflation spike and the record price not being directly related in a causal relationship",
+            "D": "Mortgage rates remaining stubbornly high at 6.49% would almost certainly have occurred as well, since it's the only other event capable of accounting for it"
+          },
+          "answer": "C"
+        },
+        "Q3": {
+          "question": "Which single event is directly tied to the most other events in this scenario?",
+          "options": {
+            "A": "The inflation spike, since it's the ultimate source everything else in the scenario traces back to",
+            "B": "Existing home sales falling 2.4% in June, since it's the point every other event in the scenario ultimately feeds into",
+            "C": "Mortgage rates remaining stubbornly high at 6.49%, since it directly influences existing home sales falling 2.4% in June and gets influenced by the inflation spike in turn",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        },
+        "Q4": {
+          "question": "Which statement is most accurate?",
+          "options": {
+            "A": "Mortgage rates remaining stubbornly high and the record median home sales price play much the same role in this account, since both directly cause existing home sales falling 2.4% in June",
+            "B": "The inflation spike leads to existing home sales falling 2.4% in June by multiple means",
+            "C": "The inflation spike and mortgage rates remaining stubbornly high indirectly influence existing home sales falling 2.4% in June",
+            "D": "None of the above"
+          },
+          "answer": "D"
+        },
+        "Q5": {
+          "question": "Which statement most accurately describes the relationship between the US-Iran war-induced inflation spike and the median existing home sales price hitting a record high?",
+          "options": {
+            "A": "Both converge on existing home sales falling 2.4% in June in the same manner",
+            "B": "The inflation spike and the record home price are entirely unrelated, since neither directly causes the other",
+            "C": "The inflation spike and the record home price may appear related due to some other unstated event that influenced both",
+            "D": "The perception of the inflation spike and the record home price's relationship may depend on more information about other events in the account"
+          },
+          "answer": "D"
+        }
+      },
+      "nodes": {
+        "A": "The US-Iran war-induced inflation spike",
+        "B": "Mortgage rates remaining stubbornly high at 6.49%",
+        "C": "The median existing home sales price hitting a record high of $440,600",
+        "D": "Existing home sales falling 2.4% in June"
+      }
+    }
+  ]
+}

@@ -1,0 +1,562 @@
+[
+  {
+    "contextId": "chain_01",
+    "dag": [
+      {
+        "cause": "Euclid surveying the distant universe",
+        "effect": "31 quasars being discovered"
+      },
+      {
+        "cause": "31 quasars being discovered",
+        "effect": "2 ancient quasars being identified using redlight technology"
+      },
+      {
+        "cause": "2 ancient quasars being identified using redlight technology",
+        "effect": "Understanding of early black hole growth advancing"
+      }
+    ]
+  },
+  {
+    "contextId": "chain_02",
+    "dag": [
+      {
+        "cause": "Tianwen-2 launching",
+        "effect": "The probe reaching Kamo'oalewa"
+      },
+      {
+        "cause": "The probe reaching Kamo'oalewa",
+        "effect": "The first photograph being captured"
+      },
+      {
+        "cause": "The first photograph being captured",
+        "effect": "Scientists forming a hypothesis about the asteroid's origin"
+      }
+    ]
+  },
+  {
+    "contextId": "chain_03",
+    "dag": [
+      {
+        "cause": "The parliamentary investigation into gifts",
+        "effect": "Farage resigning his seat to force the by-election"
+      },
+      {
+        "cause": "Farage resigning his seat to force the by-election",
+        "effect": "Mainstream parties boycotting the by-election"
+      },
+      {
+        "cause": "Mainstream parties boycotting the by-election",
+        "effect": "Count Binface emerging as the only serious rival"
+      }
+    ]
+  },
+  {
+    "contextId": "chain_04",
+    "dag": [
+      {
+        "cause": "Ukrainian drones striking Russian supply lines",
+        "effect": "Russia deploying Volna Kupol Garant jamming systems"
+      },
+      {
+        "cause": "Russia deploying Volna Kupol Garant jamming systems",
+        "effect": "Starlink connections being disrupted"
+      },
+      {
+        "cause": "Starlink connections being disrupted",
+        "effect": "The Ukrainian drone campaign being potentially blunted"
+      }
+    ]
+  },
+  {
+    "contextId": "fork_01",
+    "dag": [
+      {
+        "cause": "Artemis II mission success",
+        "effect": "Hansen gaining international recognition"
+      },
+      {
+        "cause": "Artemis II mission success",
+        "effect": "Canadian Space Agency praising his leadership"
+      },
+      {
+        "cause": "Artemis II mission success",
+        "effect": "Hansen stepping back to pursue new opportunities"
+      }
+    ]
+  },
+  {
+    "contextId": "fork_02",
+    "dag": [
+      {
+        "cause": "Bryan Johnson's autoimmune disease diagnosis",
+        "effect": "Increased interest in longevity medicine"
+      },
+      {
+        "cause": "Bryan Johnson's autoimmune disease diagnosis",
+        "effect": "Opportunities for pseudoscientific treatments"
+      },
+      {
+        "cause": "Bryan Johnson's autoimmune disease diagnosis",
+        "effect": "Drive for scientific progress and funding"
+      }
+    ]
+  },
+  {
+    "contextId": "fork_03",
+    "dag": [
+      {
+        "cause": "Xbox reporting declining revenue and low operating margins",
+        "effect": "Restructuring to a centralized studio model"
+      },
+      {
+        "cause": "Xbox reporting declining revenue and low operating margins",
+        "effect": "Helen Chiang installed as first-ever COO"
+      },
+      {
+        "cause": "Xbox reporting declining revenue and low operating margins",
+        "effect": "Game Pass prices lowered and AI Gaming Copilot feature cut"
+      }
+    ]
+  },
+  {
+    "contextId": "fork_04",
+    "dag": [
+      {
+        "cause": "Ubisoft initiating a full asset rebuild phase",
+        "effect": "Havana cityscape density doubling that of Assassin's Creed Shadows"
+      },
+      {
+        "cause": "Ubisoft initiating a full asset rebuild phase",
+        "effect": "Water tessellation system completely rewritten"
+      },
+      {
+        "cause": "Ubisoft initiating a full asset rebuild phase",
+        "effect": "Original motion capture facial performances preserved"
+      }
+    ]
+  },
+  {
+    "contextId": "collider_01",
+    "dag": [
+      {
+        "cause": "United Airlines introducing basic business fares",
+        "effect": "Delta introducing Basic Business fares"
+      },
+      {
+        "cause": "Delta's strategic goal of maximizing revenue from premium travelers",
+        "effect": "Delta introducing Basic Business fares"
+      },
+      {
+        "cause": "Hauenstein's yearlong product vision for tiered premium cabin segmentation",
+        "effect": "Delta introducing Basic Business fares"
+      }
+    ]
+  },
+  {
+    "contextId": "collider_02",
+    "dag": [
+      {
+        "cause": "Qualley scrubbing photos of Antonoff from Instagram",
+        "effect": "Speculation about the relationship split"
+      },
+      {
+        "cause": "Antonoff attending Taylor Swift's wedding without Qualley",
+        "effect": "Speculation about the relationship split"
+      },
+      {
+        "cause": "Lena Dunham's memoir allegations about Antonoff's alleged romance",
+        "effect": "Speculation about the relationship split"
+      }
+    ]
+  },
+  {
+    "contextId": "collider_03",
+    "dag": [
+      {
+        "cause": "Couric unable to remember her newborn granddaughter Virginia",
+        "effect": "The TGA diagnosis"
+      },
+      {
+        "cause": "Couric incorrectly believing it was 2024 and Biden was president",
+        "effect": "The TGA diagnosis"
+      },
+      {
+        "cause": "MRI showing no stroke, which was a top contender",
+        "effect": "The TGA diagnosis"
+      }
+    ]
+  },
+  {
+    "contextId": "collider_04",
+    "dag": [
+      {
+        "cause": "Flat visuals and underwhelming performances",
+        "effect": "The 37% Rotten Tomatoes score"
+      },
+      {
+        "cause": "The film being a nearly identical 1:1 remake of the original",
+        "effect": "The 37% Rotten Tomatoes score"
+      },
+      {
+        "cause": "Widespread skepticism due to release so soon after Moana 2",
+        "effect": "The 37% Rotten Tomatoes score"
+      }
+    ]
+  },
+  {
+    "contextId": "diamond_01",
+    "dag": [
+      {
+        "cause": "The doctor's intent to kill",
+        "effect": "The doctor killing a 75-year-old man"
+      },
+      {
+        "cause": "The doctor's intent to kill",
+        "effect": "The doctor killing a 76-year-old woman"
+      },
+      {
+        "cause": "The doctor killing a 75-year-old man",
+        "effect": "The criminal investigation"
+      },
+      {
+        "cause": "The doctor killing a 76-year-old woman",
+        "effect": "The criminal investigation"
+      }
+    ]
+  },
+  {
+    "contextId": "diamond_02",
+    "dag": [
+      {
+        "cause": "The grandchildren's grief and determination to seek justice",
+        "effect": "Evidence of threats to kill presented"
+      },
+      {
+        "cause": "The grandchildren's grief and determination to seek justice",
+        "effect": "Evidence of miscarriage from assault presented"
+      },
+      {
+        "cause": "Evidence of threats to kill presented",
+        "effect": "The conditional pardon granted"
+      },
+      {
+        "cause": "Evidence of miscarriage from assault presented",
+        "effect": "The conditional pardon granted"
+      }
+    ]
+  },
+  {
+    "contextId": "diamond_03",
+    "dag": [
+      {
+        "cause": "French scientists deploying monitoring equipment",
+        "effect": "Rapid spreading discovered in a short time window"
+      },
+      {
+        "cause": "French scientists deploying monitoring equipment",
+        "effect": "Discovery of events occurring without seismic activity"
+      },
+      {
+        "cause": "Rapid spreading discovered in a short time window",
+        "effect": "Improved understanding of oceanic crust formation"
+      },
+      {
+        "cause": "Discovery of events occurring without seismic activity",
+        "effect": "Improved understanding of oceanic crust formation"
+      }
+    ]
+  },
+  {
+    "contextId": "diamond_04",
+    "dag": [
+      {
+        "cause": "Zuck deciding to rebuild the entire AI organization",
+        "effect": "Multi-hundred million dollar pay packages offered to top AI researchers"
+      },
+      {
+        "cause": "Zuck deciding to rebuild the entire AI organization",
+        "effect": "Expedited compute ramp via the new Tent datacenter design"
+      },
+      {
+        "cause": "Multi-hundred million dollar pay packages offered to top AI researchers",
+        "effect": "Meta emerging as the only hyperscaler world-class across data, talent, and compute"
+      },
+      {
+        "cause": "Expedited compute ramp via the new Tent datacenter design",
+        "effect": "Meta emerging as the only hyperscaler world-class across data, talent, and compute"
+      }
+    ]
+  },
+  {
+    "contextId": "divchain_01",
+    "dag": [
+      {
+        "cause": "The AI boom in software engineering",
+        "effect": "Interview processes changing across the US"
+      },
+      {
+        "cause": "Interview processes changing across the US",
+        "effect": "CEOs scouring GitHub and X for talent"
+      },
+      {
+        "cause": "Interview processes changing across the US",
+        "effect": "Candidates being encouraged to use AI during interviews"
+      }
+    ]
+  },
+  {
+    "contextId": "divchain_02",
+    "dag": [
+      {
+        "cause": "The Sacramento-Yolo District launching its sterile insect technique program",
+        "effect": "144,000 sterile male mosquitoes being released in Rosemont"
+      },
+      {
+        "cause": "144,000 sterile male mosquitoes being released in Rosemont",
+        "effect": "The invasive Aedes aegypti reproduction cycle being interrupted"
+      },
+      {
+        "cause": "144,000 sterile male mosquitoes being released in Rosemont",
+        "effect": "Residents temporarily seeing more mosquitoes in the neighborhood"
+      }
+    ]
+  },
+  {
+    "contextId": "divchain_03",
+    "dag": [
+      {
+        "cause": "Dendritic cells being engineered to lack the creatine transporter",
+        "effect": "Dendritic cells surviving less effectively and becoming less active"
+      },
+      {
+        "cause": "Dendritic cells surviving less effectively and becoming less active",
+        "effect": "T cells multiplying less"
+      },
+      {
+        "cause": "Dendritic cells surviving less effectively and becoming less active",
+        "effect": "T cells producing fewer signaling molecules"
+      }
+    ]
+  },
+  {
+    "contextId": "divchain_04",
+    "dag": [
+      {
+        "cause": "Nearly 60% of S&P 500 technology stocks entering bear market territory",
+        "effect": "A sharp divide emerging in analyst ratings across the tech sector"
+      },
+      {
+        "cause": "A sharp divide emerging in analyst ratings across the tech sector",
+        "effect": "Micron and AMD receiving near-perfect Strong Buy ratings"
+      },
+      {
+        "cause": "A sharp divide emerging in analyst ratings across the tech sector",
+        "effect": "Major names like NVIDIA, Apple, and Microsoft being rated Hold"
+      }
+    ]
+  },
+  {
+    "contextId": "convchain_01",
+    "dag": [
+      {
+        "cause": "Lack of sanitation in produce fields",
+        "effect": "The rapid rise in cyclosporiasis cases"
+      },
+      {
+        "cause": "The FDA being understaffed",
+        "effect": "The rapid rise in cyclosporiasis cases"
+      },
+      {
+        "cause": "The rapid rise in cyclosporiasis cases",
+        "effect": "MDHHS activating its outbreak tracking webpage"
+      }
+    ]
+  },
+  {
+    "contextId": "convchain_02",
+    "dag": [
+      {
+        "cause": "The navigation system problem reported by the crew",
+        "effect": "Military and civilian authorities being activated"
+      },
+      {
+        "cause": "The rapid descent detected on radar",
+        "effect": "Military and civilian authorities being activated"
+      },
+      {
+        "cause": "Military and civilian authorities being activated",
+        "effect": "Search and rescue operations underway in the Arabian Sea"
+      }
+    ]
+  },
+  {
+    "contextId": "convchain_03",
+    "dag": [
+      {
+        "cause": "The drone strike crippling the Omsk oil refinery",
+        "effect": "Russia facing a 20% shortfall in domestic fuel production"
+      },
+      {
+        "cause": "The drone strike targeting the St. Petersburg oil terminal",
+        "effect": "Russia facing a 20% shortfall in domestic fuel production"
+      },
+      {
+        "cause": "Russia facing a 20% shortfall in domestic fuel production",
+        "effect": "Russia banning all diesel exports"
+      }
+    ]
+  },
+  {
+    "contextId": "convchain_04",
+    "dag": [
+      {
+        "cause": "Rising RAM prices forcing manufacturers to charge more",
+        "effect": "The Western flip foldable market becoming unsustainable"
+      },
+      {
+        "cause": "Chinese brands exiting or never entering the Western flip foldable market",
+        "effect": "The Western flip foldable market becoming unsustainable"
+      },
+      {
+        "cause": "The Western flip foldable market becoming unsustainable",
+        "effect": "Samsung potentially pausing or discontinuing its Flip8 series"
+      }
+    ]
+  },
+  {
+    "contextId": "asym_divchain_01",
+    "dag": [
+      {
+        "cause": "Holotype specimen of Zhengheornis buyu discovered and analyzed",
+        "effect": "Zhengheornis buyu identified as not adapted to tree or ground dwelling"
+      },
+      {
+        "cause": "Holotype specimen of Zhengheornis buyu discovered and analyzed",
+        "effect": "15 vertebrae identified as shortened but entirely unfused without pygostyle"
+      },
+      {
+        "cause": "15 vertebrae identified as shortened but entirely unfused without pygostyle",
+        "effect": "Challenges to the notion of simultaneous tail shortening and pygostyle formation"
+      }
+    ]
+  },
+  {
+    "contextId": "asym_divchain_02",
+    "dag": [
+      {
+        "cause": "The Bundibugyo outbreak with no existing treatments",
+        "effect": "Remdesivir being repurposed and tested"
+      },
+      {
+        "cause": "The Bundibugyo outbreak with no existing treatments",
+        "effect": "MBP-134 being identified as a potential treatment"
+      },
+      {
+        "cause": "MBP-134 being identified as a potential treatment",
+        "effect": "BARDA funding and donating MBP-134 doses for clinical trial"
+      }
+    ]
+  },
+  {
+    "contextId": "asym_divchain_03",
+    "dag": [
+      {
+        "cause": "Chaotic Eclipse publicly disclosing the RoguePlanet vulnerability",
+        "effect": "RoguePlanet being identified as the fourth Defender vulnerability disclosed by the same researcher"
+      },
+      {
+        "cause": "Chaotic Eclipse publicly disclosing the RoguePlanet vulnerability",
+        "effect": "The vulnerability being found to work on fully updated Windows systems regardless of real-time protection"
+      },
+      {
+        "cause": "The vulnerability being found to work on fully updated Windows systems regardless of real-time protection",
+        "effect": "Microsoft releasing security updates for its Malware Protection Engine"
+      }
+    ]
+  },
+  {
+    "contextId": "asym_divchain_04",
+    "dag": [
+      {
+        "cause": "Haaland's viral memes and funny moments going viral on Chinese social media",
+        "effect": "Haaland-style hairbands becoming must-have fashion accessories on Taobao"
+      },
+      {
+        "cause": "Haaland's viral memes and funny moments going viral on Chinese social media",
+        "effect": "Haaland amassing 5.8 million Douyin followers in one month"
+      },
+      {
+        "cause": "Haaland amassing 5.8 million Douyin followers in one month",
+        "effect": "Haaland landing major business deals with Walovi and Midea"
+      }
+    ]
+  },
+  {
+    "contextId": "asym_convchain_01",
+    "dag": [
+      {
+        "cause": "Extreme AI capital investment",
+        "effect": "AI firms generating revenues far below their compute expenditures"
+      },
+      {
+        "cause": "AI firms generating revenues far below their compute expenditures",
+        "effect": "Firms realizing AI costs exceed worker costs"
+      },
+      {
+        "cause": "Token-based billing making AI costs suddenly visible to corporations",
+        "effect": "Firms realizing AI costs exceed worker costs"
+      }
+    ]
+  },
+  {
+    "contextId": "asym_convchain_02",
+    "dag": [
+      {
+        "cause": "Khamenei dying as a casualty of the US airstrike on Iran on February 28",
+        "effect": "The week of mass funeral processions and rallies fueling national grief and calls for revenge"
+      },
+      {
+        "cause": "The week of mass funeral processions and rallies fueling national grief and calls for revenge",
+        "effect": "Iranian armed forces launching attacks on US military infrastructure in Gulf states"
+      },
+      {
+        "cause": "US strikes on Iran's southern coastal and eastern provinces",
+        "effect": "Iranian armed forces launching attacks on US military infrastructure in Gulf states"
+      }
+    ]
+  },
+  {
+    "contextId": "asym_convchain_03",
+    "dag": [
+      {
+        "cause": "Sony incorporating a separate deep AI processor",
+        "effect": "Advanced AI autofocus detecting humans, animals, vehicles, and insects"
+      },
+      {
+        "cause": "Advanced AI autofocus detecting humans, animals, vehicles, and insects",
+        "effect": "Sony pricing the RX10 V at $2,300"
+      },
+      {
+        "cause": "Sony upgrading to 4K 60fps 10-bit video with full sensor width",
+        "effect": "Sony pricing the RX10 V at $2,300"
+      }
+    ]
+  },
+  {
+    "contextId": "asym_convchain_04",
+    "dag": [
+      {
+        "cause": "The US-Iran war-induced inflation spike",
+        "effect": "Mortgage rates remaining stubbornly high at 6.49%"
+      },
+      {
+        "cause": "Mortgage rates remaining stubbornly high at 6.49%",
+        "effect": "Existing home sales falling 2.4% in June"
+      },
+      {
+        "cause": "The median existing home sales price hitting a record high of $440,600",
+        "effect": "Existing home sales falling 2.4% in June"
+      }
+    ]
+  }
+]
